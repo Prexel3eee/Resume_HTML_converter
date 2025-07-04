@@ -7,7 +7,6 @@ RUN apt-get update && \
         libreoffice \
         fonts-dejavu \
         fonts-liberation \
-        ttf-mscorefonts-installer \
         poppler-utils \
         unoconv \
         curl \
