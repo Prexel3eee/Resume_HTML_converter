@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: document-converter
+    healthCheckPath: /api/health
+    envVars:
+      - key: FLASK_ENV
+        value: production
+    disk:
+      name: converter-disk
+      mountPath: /opt/render/project/src/uploads
+      sizeGB: 2

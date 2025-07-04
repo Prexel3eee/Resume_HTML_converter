@@ -1,0 +1,553 @@
+
+                                 Jaipal Roy
+                            j.palcool111@gmx.com
+
+Summary:
+
+I have over 25+ years in IT and Hands on Architect using  Kubernests,  Azure
+Devops(ADO) using AKS, Azure IOT Hub, Azure Maps, Azure Messaging  Services,
+Azure Database Solutions using ADF, Data  Lake  Gen2,  Data  Bricks,  Scala,
+SparkSQL,  and  Micro  Services   developing   .NET,   C#,   ASP.NET   Core,
+Java,Golang, Hyperledger SDK, Ethereum, NodeJS, NOSQL, RDBMS.
+
+Professional Experience:
+
+Blockchain Consortium, Onsite/Remote New York, NY
+Azure Architect
+                  Jul 2019 - Current
+                                                      Asset Tracking
+
+Assets:  Oil and Gas(Smart Bolts,Pipes), Health Care(Vaccines,
+Drugs,Organs) and Food Products( Frozen Chicken, Fresh Vegiatbles)
+
+
+Problem: The information stored in the Complex Supply chain Silos  is  error
+prone, Manual paper work. Lack of secrurity and Transparency  issues  across
+Multiple  Parties  transparency,  authenticity  and  no  trust  between  the
+parties involved
+
+Responsibilities:
+    • Responsible for educating SMEs, Stake Holders on Blockchain Frameworks
+      to develop DLTs to Identify Use Cases and nail  down  Pain  Areas  and
+      Leveraged Indusitry4.0-Digital Twins for Digital Transformation
+    • Responsible for Cloud Assessment to migrate On-Premise  workloads  and
+      Cloud Native applications using 6’R model  with  Azure  Landing  Zone,
+      Azure Cloud Adoption Framework to leverage Azure Services and creating
+      Reference Architecture for  for  EMEA/LAD/NA  and  APAC  regions  with
+      Domain Driven Design(DDD), Domain Models, CQRS and Event Sourcing
+    • Creating Azure IoT Hub, Networking, Register App/ IoT  Device,  Device
+      Twin with  Azure  IoT  Hub  using  x.509  root  CA  and  Create  Agent
+      application using NET Core with AMQT Transport
+    • Orchestrated IoT Hub, to route messages  to  Event  Gird,  Event  Hub,
+      Blob, CosmosDb, Azure Service  Bus  with  Custom  Routing  and  custom
+      endpoints to the above storage systems with Azure Functions
+    • Used IoT Explorer and IoT Service Bus Explorer to  simulate  the  data
+      flow between Device to Cloud (D2C) and Cloud to Device  (C2D).  Create
+      and Configure Streaming Analytics SQL Jobs to Channelize data from IoT
+      Hub, Event Hub to PowerBI dataset  using Azure Functions and leveraged
+      Azure Maps for mobility
+    • Held Working sessions with SEMs to developed Small  POCs  using  Azure
+      WorkBench with Solidity, JSON, Azure AD, IOT, Power BI and Integrating
+      with IOT and Off Chain SQL Server Database
+    •  Developed  Enterprise  Data  Platform(EDP)   with   Data   Migrations
+      Service(DMS),  Azure  Data  Services  involving   Azure   Blob,   ADF,
+      Pipelines, Activities, IR, Linked Services, Data Sets, ADLSGen2,  Data
+      Bricks, HDInsight and Spark to migrate On-Premises databases  such  as
+      Oralce,SQL,DB2 and files to Azure Cloud
+    •  Responsible   for   Orchestrating   ETL   Pipeline   to   Extraction,
+      Transforming, loading  using  Data  Bricks  with  Delta  Lake,  Scala,
+      Python, Spark SQL, PySpark, JDBC, DataFrame, Azure Synapse, Key Vault,
+      SQL Server and Jobs
+    • Responsible for provision of  Data  Bricks  and  creating  Workspaces,
+      Clusters, Notebook, tables and Mounting Data Lakes to Data Bricks DBFS
+      and leveraged Azure Monitoring Service  to  Monitor  ADF  metrics  and
+      alerts  with  quick  insights  for  Operating  Systems,  Applications,
+      Resources, Services and Ganglia, Grafana Visualization for Data Bricks
+      Clusters and experiment Data Migration with Talend
+    • Implemented Integration Run Time types such as  AutoResolveIntegration
+      Run Time for Cloud Migration, Self -Hosted and SSIS for On-Premises to
+      Cloud using ADF and migrate SQL VMS to cloud using lift and shift
+    • Implemented IOT HUB, Event HUB Azure Data Lake  Store  and  Event  HUB
+      Capture to transfer Azure Data Lake Store Gen2 and  Azure Data Synapse
+      to archive for every 24 Hours Hot Tier
+    • Leverage Azure AI,Mechine learning and Deep Learning models  for  time
+      series  forecasting  of  Fuels  Products   Sales   using   Azure   ML,
+      TensorFlow2.0, neural networks APIs
+    • Worked on DLT Architecture related to  all  activities  including  DLT
+      platforms based on Information as a  Service  (IaaS),  Platform  as  a
+      Service  (PaaS),  and  Software  as  a  Service  (SaaS)   initiatives,
+      projects, plans, and reviews with a specialized  focus  on  DAS,  SAS,
+      Cloud Storages using Blob(Cold), CosmosDB for Globally
+    • Configure Continuous Integration from source control, setting up build
+      definition within Visual Studio Team  Services  (VSTS)  and  configure
+      continuous  delivery  to  automate  the  deployment  of  ASP.NET   MVC
+      applications to Azure web apps and  managed  Azure  Active  Directory,
+      Office 365 and applied upgrades on a regular basis
+    • Deploying AKS cluster with Azure Container Registry from Azure CLI and
+      build Kubernetes cluster for Self-Healing, Auto-Scaling, Auto-Rollback
+      and Upgrade Apps and Cluster and Docker for the runtime environment of
+      the CI/CD system to build, test and Octopus Deploy
+    • Implemented a CI pipeline with Docker,   GitHub  and  Azure  Container
+      Service,  TFS/GitHub  branch,  and   used   AKS   templates,   Service
+      connections to deploy container to  AKS Cluster using CD pipeline
+    • Responsible for deploying Blockchain network to  Azure,  AWS  and  GCP
+      cloud platforms as Client requirement
+    • Working closely with Sr. Executives, SMEs to  Defined  use  cases  and
+      created project plan with Cloud Hosting price for  infrastructure  for
+      Blockchain network, IOT data storage  and  timelines,  millstones  for
+      POC,  MVP  and  Production  blockchain  application  and   implemented
+      security, AM using MFA, OTP and Integrated with GPS
+    •  Leverage  Checkpoint  Services  to  protect  Azure   Assets   against
+      vulnerabilities, malware and compliance
+    • Leveraged Azure AD, for B2C and users and integrated with  Hyperledger
+      blockchain consortium network and Developed Cloud  Native  apps  using
+      App Services such as Web App, Azure Functions, API Management
+    • Responsible for planning, Development, Delivery and Operation Phase of
+      Environment and Applications in Azure Cloud using Azure  Devops  tools
+      and Azure Services
+    • Employed Microservices Architecture and  blue  green  deployment  mode
+      between blue (previous version) and green (new version) for users  and
+      developing APIs for on-premises  and  Cloud  Data  and   security  ETL
+      process
+    •  Responsible  for  defining  and  implementing  a  robust,   scalable,
+      pragmatic and realistic cloud solution that  works  for  internal  and
+      external applications
+    • Design and implement  cloud  solutions  which  are  secure,  scalable,
+      resilient, monitored,  auditable  and  cost  optimized.  Used  DataDog
+      Monitoring tool to monitor Azure application assets running in Azure
+    • Generated Infrastructure as Code  (IaC)  using  Azure  Tools  such  as
+      PowerShell, ARM Templates, Terraform, Azure VSTS and open source tools
+      such as  GitHub,  Jenkins,  Ansible  and  created  RunBooks  for  Push
+      Notification Model
+    • Design and implement continues Integration (CI),  continuous  delivery
+      (CD) pipelines that serve the purpose of  provisioning  and  operating
+      client test as well as production  environments  with  Kubernetes  and
+      Docker
+    • Responsible for designing  and  developing  distributed  and  reliable
+      solution  using  Hyperledger  Fabric,  Golang,  ASP.NET  Web  APIs  to
+      interface with existing SAP Systems and existing legacy applications
+    •  Client  co-ordination  and  up  selling.  Blockchain  based   project
+      architecture design and development
+    • Worked on Block chain, crypto currency and DLT security  architecture,
+      development,  designs,  integration,  and  enterprise  DLT  POCs   and
+      implementations
+    • Building network for multiple  participants  and  multi  channels  and
+      installing and  initiating  the  chaincode  and  leveraged  Kubernetes
+      container for production
+Environment: TOGAF, Azure, AWS, GCP,  IBM  Bluemix,  ADF,  ADLS,  Azure  ML,
+Azure IOT Hub,Event  Hub,Event  Grid,Service  Bus,  Azure  Maps,  Hyperleder
+Fabric,Kafka,  Azure  Workbench,  GoLang,  Ethereum,  Solidity,  Power   BI,
+HDInsight, Scala, PySpark, Spark SQL,  Data  Bricks,  Azure  Synapse,  JDBC,
+Azure Devops, Kafka, ReactJS,  ASP.NET  Core,  Web  API,  IoT,  RPA(UIPath),
+VisualCode,  Visual  Studio2017,  Remix,NodeJS,  NPM,  C#,  Java/J2EE,Spring
+Boot, Hybernate, AGGrid,HTML5, CSS3, Javascript, ChartJS,  NGINX,  IIS,  ARM
+Templates, Terraform,  PowerShell,  Bash,Talend,  SQLServer2016,  Oracle11g,
+CosmosDB, SSIS, Windows Server 2016/Ubuntu, Office365, SonorCube,  Selenium,
+DataDog,MS Office and JIRA
+
+Novelis            /             NTT             Data,             Remote,TX
+                 Jun2018 - Jul 2019
+Azure Architect/ Sr  Devops Engineer
+
+Responsibilities:
+    •  Responsible  for  Building,   Maintenance,   Architected   migration,
+      transformation, engagement  of  business  application  workloads  from
+      smaller size to larger size data centers of MS Azure
+    • Create and maintain fully automated CI/CD build and pipelines for code
+      deployment using AKS, YAML Deploy  and  PowerShell  in  Azure  GitHub.
+      Presently supporting multiple projects to deploy on-premise servers to
+      Azure. Working on customization of  JSON  ARM  template.  Migrated  to
+      Azure GitHub from Azure VSTS and TFVC
+    • Leveraged Azure Services not limited to  Azure  AD,  Storage,  Service
+      Bus, Key Vault and Application Insights, Azure  Functions,  Web  APPS,
+      APP Services, Security Center, AZURE Devops, Azure CDN, Azure  GateWay
+      API, and Azure Data Services including CosmosDB, Azure Redis Cache
+    • Automated Infrastructure using Terraform with Bash and PowerShell  and
+      converted existing ARM Templates to Terraform. Working  on  developing
+      the runbooks to automate functionalities like  stop  VM,  restart  VM,
+      start VM, cleanup of Azure unused resources for Microsoft MSP project
+    • Automating  project  team  workflows  with  some  of  the  Office  365
+      templates and apps. Created tables and automate some of  the  teamwork
+      using InfoPath
+    • Worked as Full-stack Developer and Infrastructure Management  Solution
+      designing and Microservices architecture for Azure Cloud adoption  and
+      migration.  The  engagement  comprised  of  large   size   distributed
+      workloads
+    • End  to  end  security  assessment,  Networking,  IAM,  ITSM,  Design,
+      Compliance Migration and UAT. The  engagement  comprised  of  many  of
+      distributed workloads across multiple sites
+    • Assessment,  Solution  designing  and  architecture  for  Azure  Cloud
+      adoption and migration to distributed workloads  and  containerization
+      with Kubernetes and docker
+    •  Led  multiple  Network   and   Security   Consulting   projects   for
+      organizations intending to embrace  Azure  Public  Cloud  for  hosting
+      their mission critical applications workloads
+    • Functional Requirement  Capture,  Allocation  of  Budget,  requirement
+      specification
+Environment: Windows  Server  2019/  2016/2012/Ubuntu,CentOS,  Azure,  Azure
+Devops GitHub/VSTS/TFVC,  Terraform,  Hyperleadger  Fabric,  Kafka,  UIPath,
+NET4.5,  VS.NET2016,  Hybernate,Visual   Studio   Code1.4,   NodeJS,   Geth,
+NPM,MongoDB,  Docker,Azure  XPLAT  CLI,   C#,SQL,   U-SQL,Visio,   CosmosDB,
+SQLServr2016,ASP.NET    MVC,    HTML5,    CSS3,    Javascript,    Meanstack,
+Bash,PowerShell,  IIS, Apache Server and MongoDB
+
+Union Bank, Remote
+Azure           Architect/           Sr            Devops           Engineer
+Oct 2017- May 2018
+
+Responsibilities:
+    • Responsible  for  defining  road  map  for  Design,  implementing  and
+      managing virtual networking within Azure and  connect  to  on-premises
+      environments, configure Virtual Network, VPN Gateways,  DNS  and  Load
+      Balancers
+    • Responsible for build and automation of on-premises applications  with
+      TFS,TeamCity and cloud based applications with VSTS2015 RM, Azure  ARM
+      JSON,Jenkins, power shell, Azure XPLAT CLI, NodeJS
+    • Implementing Azure Infrastructure Solution. Designed and developed EAI
+      messaging system using cloud Services and  .NET  Framework,  planning,
+      managing, backup, monitor storage solutions cloud design  patterns  to
+      secure resources
+    • Used third party tool for  assessments and develop  remediation  plans
+      with DLP controls family and Monitor compliance and ensure enforcement
+      with all SOX, PCI DSS, HIPAA and NIST requirements  as  applicable  to
+      the  organization  using  Third-party  Compliance  Tools  for  protect
+      resources and data at rest and in-transit
+    • Responsible for creating and managing Azure AD tenants,  manage  users
+      and groups, and configure application integration with Azure AD
+    • Integrate on-premises Windows AD with Azure AD, configure multi-factor
+      authentication(MFA) and federated single sign-on(SS0). Responsible for
+      defining road map for migrating from  client  server  architecture  to
+      Azure public cloud and employed ADFS,SCOM and Azure Services to manage
+      Azure Resources
+    • Centralized access administration for  on-premises  and  preintegrated
+      SAAS, cloud based apps and secured resources using with IDAAS/IAM  and
+      ADFS and data migration using Azure Data Facotry, Azure Data Lake with
+      U-SQL and creating, scheduling jobs using C# and SSIS
+    • Created Services to implement Authentication and  Authorization  using
+      AAD,ADFS with Access token, Claims Identity with Microsoft Azure Graph
+      API, oAauth,SAML2.0,Microsoft Owin/OpenIdConnet API
+    • Managed the implementation of secure configurations in UNIX and Oracle
+      Databases on  the  Datacenters  based  on  NIST  standard.  Built  the
+      solution on Azure cloud, Implemented and worked on Team City, Octopus.
+      GIT and Git client code merges,  branching  strategies  and  automated
+      build and deployment using VSTS, Jenkins, power shell
+    • Design and developing DAAPS with smart  contracts  using  Hyperleadger
+      Fabric,  Kafka  and  Ethereum   Platform,   Solidity,Truffle,Metamask,
+      npm,nodejs,VisualStudio.com,chocolatey, Geth, ERC20 and Azure BAAS
+    • Business Requirement Capture, Effort Estimation, Programmer, SME,  HLD
+      review. Designed and developed Rich  UI  using  ASP.NET,  IIS,  HTML5,
+      CSS3,D3.JS,AngularJS4/2,typescript
+    •  Business  Requirement  Capture,  Budget   finalization,   requirement
+      specification, Interface Design Finalization
+Environment: Windows Server 2016/2012/Ubuntu,CentOS, Azure, AKS, Azure  Data
+Facotry/Data    Lake,    Hyperleadger    Fabric     Projects,      Ethereum,
+Solidity,MIST,Truffle, GoLang,  Solidity,  NET4.5,  VS.NET2015,  VisualCode,
+NodeJS,  Geth,  NPM,MogoDB,  Docker,Azure  XPLAT  CLI,  C#,VSTS,   SQL,   U-
+SQL,Visio, SQLServr2012,ASP.NET MVC,  HTML5,  CSS3,  Javascript,  Meanstack,
+PowerShell,  IIS, IBM ESH, Websphere, Apache Server and MongoDB
+
+Amberleaf,                            Chicago,                            IL
+Oct 2016 - Oct 2017
+Azure Cloud Architect
+
+Project: DATA Integration Portal and Cloud Solution
+Data integrations required to support Daarling’s  on-boarding  on  to  Azure
+Service Cloud as well  as  on-going  data  integration  into  Azure  Service
+Cloud.  The integrations is divided into two categories: One-Time data  load
+of organization and service request data. On-Going data  loads  from  source
+systems
+
+Responsibilities:
+    • Responsible  for  defining  road  map  for  Design,  implementing  and
+      managing virtual networking within Azure and  connect  to  on-premises
+      environments, configure Express Route, Virtual Network, VPN  Gateways,
+      DNS and Load Balancers
+    • Responsible for defining road map for  migrating  from  client  server
+      architecture to private cloud and levering  Microsoft  Azure  Services
+      such as SAAS, PAAS and IAAS
+    • Implementing Microsoft Azure Infrastructure  Solution.  Development  2
+      above in .NET Framework, Java plugins, Interface Design  Finalization,
+      coding, Integration Testing using Azure  XPLAT  CLI  for  Windows  and
+      Linux Platforms
+    • Working and understanding cloud needs and provide the solution. Worked
+      with Network and Compliance  teams  ,  understand  security/compliance
+      requirements
+    • Business Requirement Capture, Effort Estimation, Programmer, SME,  HLD
+      review. Worked on Sitecore CMS, Designed and developed Rich  UI  using
+      ASP.NET, SiteCore6/5, HTML5, CSS3
+    • Configuration on Site  core,  CMS  Systems  Administration,  Microsoft
+      Azure systems administration,  HDI Technical Support
+    •  Business  Requirement  Capture,  Budget   finalization,   requirement
+      specification, Interface Design Finalization
+Environment:  Azure,   NET4.5,VS.NET2015,VisualCode,NodeJS,NPM,Azure   XPLAT
+CLI, Azure ARM, C#, VSTS, GIT,Octopus, SQL,  Visio,  SQLServr2012,  Jenkins,
+ASP.NET   MVC,   HTML5,CSS3,Bootrstrap,Angulat4/2,    Typescript,    JQuery,
+Javascript,PowerShell,   IIS,  Windows  Server  2012/Linux,GITHub,Teacity,HP
+Fortify
+
+Shell, Houston, TX
+Role:Azure                          Cloud                          Architect
+                             Aug 2015 - Sep 2016
+Blue Print Focus(Trading)
+
+Responsibilities:
+    • Worked closely with SME, Work Stream Leaders and BA to understand  the
+      existing systems requirements and prepared  functional  and  technical
+      solution documents
+    • Responsible for defining road map for  migrating  from  client  server
+      architecture to private cloud and  levering  Azure  Services  such  as
+      SAAS, PAAS and Infrastructure as IAAS to utilize  hardware,  software,
+      Storage and server and other Infrastructure components
+    • Responsible assessing of Private, Public and Hybrid   cloud  computing
+      of   AZURE,   Oracle  and  OpenStack   cloud   computing  and  sizing,
+      provisioning of EC2 Instances,VMS, Storage  Types,  Virtual  Networks,
+      DNS,  VPC,  Lambda,  creating   base   Images,   building   leveraging
+      Infrastructure
+    • Responsible for  documenting  of  hardware  components  such  as  VPC,
+      Networks, Storage Types, Cable specifications, Elastic Load  Balancer,
+      support information, DR Options,  vendor  systems  specifications  for
+      legacy applications
+    • Responsible  for automating testing and deployment using Chef, Puppet,
+      Jenkins, Ansible, Python  and  Java,CloudFormation,  Sonar  Qube,Sauce
+      Labs in AZURE and Power Shell for  Windows  and  Linux  Platforms  and
+      cross browsers  and Preparing Run Books
+    • Responsible for creating  /  managing  disaster  and  recovery  plans,
+      automation of administration tasks, dynamic  scaling,  virtualization,
+      Containerization and policy based services for the  user  applications
+      on IAAS infrastructure
+    •  Responsible  for  automating  build,  test  and  deployment  of   web
+      applications  to  AZURE  cloud  using  Bash,Puppet,   Chef,   Jenkins,
+      Selenium, Sauce Labs, Github,SVN,TFS
+    • Responsible for cloud risk mitigation strategies against Data Security
+      / confidentiality, Reliability, Software Updates  Cyber  Security  for
+      Cloud computing
+    • Responsible for Configuring, customizing  Connex  to  Integrated  with
+      external systems an  Developing  extensive  Trade  Process  Management
+      (TPM) workflows to automate the numerous manual EOD tasks
+    • Responsible for Integration of  Custom  Applications  with  Endur/Java
+      Core  Services,JMS,,  IBM  Messaging   System,   and   Packages(Stored
+      Procedures, Functions) using  PL/SQL,  Oracle  Developer  and  Crystal
+      Reports
+    • Troubleshooting and fixing memory leak  and  performance  issues  with
+      AVS, OpenJVS, OpenComponents, and SQL across the project
+    • Involved in configuring  Endur  for  Front,  Middle  and  Back  Office
+      Operations for Features, Deal Truncations,Trade Capture,  Settlements,
+      Nominations and Year/Month end Reconciliations
+    • Developed integration components  in  C#  .NET  using  Endur  Toolkit,
+      Developed OpenComponents and OpenJVS scripts in Java/ C#.NET
+    • Responsible for migrated to v14 from v9 various Endur scripts from AVS
+      to Java/OpenJVS using Open Components library
+Environment: TOGAF, Java,  Ecplise,.NET4.5,VS.NET2013,AZURE,OpenStack,Oracle
+Cloud,   Docker,   Chef,   Puppet,    python3.Jenkins,    Hybernate,Anisble,
+S3,SNS,Lambda,RDS,CloudFormation, Sonar Qube,Sauce Labs  Endurv14,  ASP.NET,
+JQuery, AngularJS, MVVM, Oracle, PL/SQL,  Oracle  Developer,  Hadoop  ,Hive,
+Hbase, Pig, MapReduce, Sqoop, Flume,  Zookeeper,  Ozie,Websphere,  IBM  ESB,
+C#, Bash, Power Shell,  SVN,TFS,IIS8,  Office365,  Node.JS,  Windows  Server
+2012
+
+Lifestyle Hearing Corporation
+Role:Sr.                           Cloud                           Architect
+                       Nov 2014 - Aug2015
+
+
+Lifestyle Hearing is a  network  of  independent  audiology-focused  hearing
+healthcare clinics, dedicated to quality patient care across Canada.
+Lifestyle Hearing Network Members are highly educated professionals  focused
+on patient care with a strong devotion for  their  communities.  Since  they
+live and work in the various towns and cities they serve, Lifestyle  Hearing
+Network Members understand your unique need
+To help Canadian hearing healthcare clinics deliver premium care,  To  offer
+all Canadians a hearing healthcare professional that is an  established  and
+trusted member of their community,  To  promote  healthy  lifestyle  through
+healthy hearing
+
+Responsibilities:
+    • Implementation by delivering standard  deliverables  out  of  the  box
+      cutting down the overall implementation time significantly
+    • Responsible for building IAAS,PAAS and SAAS using  AZURE,  Configuring
+      Virtual Networks, Machines, Creating Virtual  HardDisks  and  Storage,
+      DNS Names,End Points and Integrating with Active  directory,  Managing
+      Websites, SQL and deploying using PowerShell
+    • Responsible for  Architecting data warehousing using SOA, SSAS with MS
+      BI tools and automating Data Conversation and loading on demand and on
+      need basis ETL Process from different sources such as Oracle11g to SQL
+      Server2016 using MS BI tools such as SSIS,SSRS
+    • Flowchart diagrams within this  implementation  methodology  point  to
+      tools and templates that  can  be  used  at  different  phases  of  an
+      implementation project
+    • Involved for Designing, developing of SQL data  and  database  objects
+      such as Tables, Views, Stored Procedures, functions  and  AZURE  cloud
+      with MS SQL Database
+    • Responsible for preparing planning,  design,  technical  and  strategy
+      documents and Runbooks for AZURE cloud environments
+    • Involved in JAD session  application  planning,  design,  development,
+      test and build automation using  TFS2015,  PowerShell,  Sonar  Qube  -
+      Source Code Analyzer, Sauce Labs - Test Tool for all types of browser,
+      mobile devices, IBM Appscan - Source Code Analyzer
+    • Heavily involved in performance optimization,  capacity  planning  for
+      Cloud Application tuning and Azure  SQL schema design
+    • Activities which are created within MS Dynamics CRM  can  be  seen  in
+      this section Phone  Call,  Appointments,  Service  Appointments,  Task
+      Others
+    • Accounts-Customer Master –Customized as  Patients  ,  Clinic  Details,
+      Products -Configured with Left and Right Earring Aids
+    • Deliverables includes functional  design  documents,  conference  room
+      pilots and pre-configured Dynamics CRM environments that  help  brings
+      projects under budget
+Environment:    AZURE,    Windows     Server2012,     Hyper-VM,     Dynamics
+CRM2011,.NET4.5/4.0, VS.NET2013/12, TFS2012, Agile, C#, WCF,  ASP.NET,  TFS,
+SSRS, SSIS, SSAS, Oracle11g, SQLSERVER2012/2016,  Sonar  Qube,  Sauce  Labs,
+IBM Appscan, HP Fortify
+
+Center Point Energy, Houston, TX
+NET                                                                Architect
+              Feb 2013 – Nov 2014
+
+Environment:   Azure,.NET,C#,AZURE,VMWare,Ansible,Puppet   Chef,Unix/Ubuntu,
+Windows Server 2012/2008, Eclispe, NETBEANS,  LAMP  stack,  Space  Walk,  No
+SQL, Agile, JSP, SPRING MVC,JBOSS, Jersey2.5, HTML5,  CSS3,  JQuery,  Kendo,
+JavaScript,   JSON,   Knockout2.0,AngularJS,   Tweeter   Bootstrap3,Telerik,
+Apachi, Hadoop  (Hive,  Hbase,  Pig,  MapReduce,  Sqoop,  Flume,  Zookeeper,
+Ozie),   Splunk6/5,   Cassandra/CSQL,    MangoDB,    WebLogic,    Oracle11g,
+Hybernate,PostgreSQL9, NUnit and Log4J
+
+Wellington Management, LLP Boston, MA
+Silverlight                                                        Architect
+                                                                         Jun
+2009 - Feb 2013
+
+Environment: TOGAF, Silverlight, VVMWare NET4/5/3.5,  VS.NET2013/2008,Visual
+Studio2013,J2EE,   Hibernate,   Java/J2EE,   ILOG/ODM,   Spring   Framework,
+NETBeansIDE,  Adobe  Flash10  WCF,  LINQ,  C#,  MOSS,  ASP.NET,  HTML5,CSS3,
+JavaScript, .KendoUI, Knockout,  IIS7,WebLogic,Apache,  MOSS,  INFRAGISTICS,
+Telerik,  XML,  XP/2003,  MSUnit,  SVN,  Expression  Blend,  Design,   Adobe
+Illustrator
+
+
+Fidelity National Information Services, Jacksonville, FL
+Sr.WPF                                                             Developer
+      Nov 2007 - Apr 2009
+
+Environment: TOGAF,.NET3.5, VS.2008, C#.NET,WPF,XAML, Expression Blend,  FIS
+Xpress Suite, Windows Service, Clear Case, WCF, WWF,  LINQ,   MVVM,  Windows
+XP,   MOSS,   SQLServer2005,    Websphere,    IBM    ESB,    XML,    Log4NET
+
+
+AETNA, Middletown, CT
+Tech                                                                    Lead
+                       Jun 2007 - Oct 2007
+Environment:  .NET  Framework2.0/1.1,   VisualStudio.NET2005/2003,   C#.NET,
+ADO.NET, Windows Service, IBM Clear Case, ASP.NET, SAML,WINFORMS, IIS6,  VSS
+(Visual  Source  Safe),   Windows   XP,   XML,   SharePoint   Services   and
+SQLServer2005 /2000, XSLT/Xpath
+
+New York State (OCFS), NY
+Architect/                             Tech                             lead
+                       May 2004 - June2007
+Environment:    TOGAF,    VSTS,TFS,NET3.0/2.0/1.1,    VisualStudio2005/2003,
+Java,J2EE,JMS,JSP, Websphere, IBM  ESB,  VB.NET,  ADO.NET,  IIS6/5,  Windows
+Forms, WCF,WPF,C#.NET(3.0/2.0/1.0), WEBSERVICES, VSS (Visual  Source  Safe),
+ASP.NET, XML, XSLT, Apache, SiteMinder, MSMQ, COM+, VB6.0,  LDAP,  Oracle9i,
+SQL   Server   2005/2000/7.0,   Reporting   Services,   Java,   Unix,    IBM
+AS400/DB2,Windows   Vista/2003/XP/2000,   CSLA,   MS   Office,    Enterprise
+Libraries2.0, Fxcop, SharePoint Sevices2005,Biztalk2007
+
+Microsoft Corp, Bellevue,
+NET                               UI                               Developer
+                                  Dec 2003 – May2004
+Edison and /or UPP
+
+Environment:.NETFramework1.1,   VS.NET2003,   C#.NET,    VB.NET,    ADO.NET,
+WEBSERVICES, WSE.2.0, ASP.NET,  IIS6,  SQL  Server  2000,  XML,  XSLT,  SVN,
+Windows Server 2003, WebRunner, Fxcop
+
+Markel      American       Insurance       Company,       Pewaukee,       WI
+
+                        Jun2003 - Dec 2003
+MAI QuoteSystem
+NET Architect/Tech Lead
+
+ Environment:.NETFramewrok1.1,Visual  Studio.NET  2003,   C#.NET,   ADO.NET,
+ Siebel, WEBSERVICES, WSE.2.0, IIS6, ASP.NET, SQL Server 2000, XML, XSLT,VSS
+ (Visual Source Safe), RationalXDE 2002, Clear Case, UML,  Visio,  MS  Word,
+ Windows XP,  Nunit2.0
+
+Client      Name:      Reynolds      and      Reynolds,      Dayton,      OH
+
+Aug 2002-May 2003
+Project Name: Desking
+Integration Lead
+
+Environment: Visual Studio.NET  2002,  .NET1.0,  C#.NET,  ADO.NET,  ASP.NET,
+WEBSERVICES, WSE2.0, SOAP, MSMQ, COM+, IIS6,  SQL  Server  2000,  VSS(Visual
+Source   Safe),   CSS,   UML,   Visio,   MS   Word    RationalRoseClearCase,
+Biztalk2004,XML, XSLT WindowsXP, Linux, Visio, LoadRunner
+
+PMI Group, SFO, CA
+Tech Lead
+PMIS
+  Oct 2001- Jun2002
+
+Environment: J2EE (JSP, EJB, Java,  Weblogic,  Servlets)  UML,  Visio,  RUP,
+VB6.0, COM, XML, XSLT, ASP3.0, IE6.0, Windows 2000, MQSERIES, LDAP, DHTML  ,
+Dreamweaver, Db2, Oracle8i, JDBC, MS Word, JavaScript
+
+Credit       Suisse       First       Boston,       New       York,       NY
+        Jan 2001- Sep2001
+
+Environment: IIS4.0, VB6.0,  COM,  MTS,  ASP3.0,  ADO,  XML,  XSL/XSLT,  VSS
+(Visual  Source  Safe),  SQL  Server  7.0,  Oracle  8i,  IE5.0,  HTML/DHTML,
+Javascript, VisualInterdev6.0, CrystalReports8.5, Visual Studio 6.0,  Remote
+Scripting, UML, Word
+
+
+Xerox, Rochester, NY
+Lead                                                               developer
+                                          Jul 2000 - Dec 2000
+
+Environment: WIN2000, JAVA,JSP, XML, XSLT, Apachi,  Oracle8i,  Sun  Solaris,
+Adobe Photoshop Illustrator, Postscript, MS Project, MS Word, Visio
+
+Client Name: HP, Roseville, CA
+
+                                                             Feb 2000 -  Jul
+2000
+AMS (Accessories management system)
+Developer
+
+
+Environment:VB6.0, ASP2.0, XML, XSLT,  Window  NT,  Windows  Registry,  IIS,
+VSS,  ADO,  CDO,  COM,  DCOM,  MSMQ,  SQL  Server7.0,   IE5.0,   HTML/DHTML,
+JavaScript, Front-page, CrystalReports7.0, VisualStudio6.0, Erwin
+
+Arkansas       State        Government,        Little        Rock,        AR
+
+      May 1999 - Jan 2000
+
+Environment: IIS4.0, VB6.0, ASP2.0, VSS  (Visual  Source  Safe),  CDO,  COM,
+MTS, MSMQ, ADO, SQL Server 6.5,  Oracle  7.3,  Window  NT  4.0,  XML,  XSLT,
+HTML/DHTML, Visual Studio6.0, JavaScript, IE5.0, DB2, Spread Sheet  Control,
+CrystalReport6.5, MSWord, Visio
+
+Singapore Airlines, Singapore
+Senior                          Analyst                           Programmer
+       Sep 1997 - Feb 1999
+MPS  (Material Planning System)
+
+  Environment,  C++,ASP,  VB6.0/5.0,  ASP2.0,  IIS4.0,  Crystal  Reports4.6,
+Centura (SQL Gupta  Windows  5.0,  PC-Pentium  Pro  with  Oracle  7.3,  DB2,
+CrystalReports4.6, Windows NT 4.0/ 95, TSO, ISPF, Cobol and MS Word
+
+
+Project:  Bangalore, INDIA
+Programmer                        Analyst                        /Programmer
+              Sep 1993 - Jul 1997
+
+Environment: C, C++,Developer  2000,  Forms  4.5/3.0,Oracle7.3/6.x,  PL/SQL,
+Reports2.5, Dbase, UNIX, IBM Compatible, Windows 3.1 and MS Word
+
+EDUCATION:
+
+BS In Computer EngG., Mangalore University, India-1993
+Additional work experience available upon request
+

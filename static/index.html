@@ -1,0 +1,369 @@
+<!-- DO NOT OVERWRITE: This is the main UI for the Document Converter app. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Document Converter</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; padding: 20px; color: #333; }
+        .container { max-width: 1200px; margin: 0 auto; background: white; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1); overflow: hidden; }
+        .header { background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%); color: white; padding: 40px; text-align: center; }
+        .header h1 { font-size: 2.5em; margin-bottom: 10px; font-weight: 700; }
+        .header p { font-size: 1.2em; opacity: 0.9; }
+        .main-content { padding: 40px; }
+        .mode-selector { display: flex; justify-content: center; margin-bottom: 40px; gap: 20px; }
+        .mode-btn { padding: 15px 30px; border: 2px solid #e5e7eb; background: white; color: #6b7280; border-radius: 10px; cursor: pointer; font-size: 16px; font-weight: 600; transition: all 0.3s ease; }
+        .mode-btn.active { background: #4f46e5; color: white; border-color: #4f46e5; }
+        .mode-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(79, 70, 229, 0.2); }
+        .conversion-section { display: none; animation: fadeIn 0.5s ease-in-out; }
+        .conversion-section.active { display: block; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .upload-area { border: 3px dashed #d1d5db; border-radius: 15px; padding: 60px 20px; text-align: center; margin-bottom: 30px; transition: all 0.3s ease; cursor: pointer; position: relative; }
+        .upload-area:hover { border-color: #4f46e5; background: #f8fafc; }
+        .upload-area.dragover { border-color: #4f46e5; background: #eef2ff; }
+        .upload-icon { font-size: 48px; color: #9ca3af; margin-bottom: 20px; }
+        .upload-text { font-size: 18px; color: #6b7280; margin-bottom: 10px; }
+        .upload-subtext { font-size: 14px; color: #9ca3af; }
+        .file-input { display: none; }
+        .settings-panel { background: #f8fafc; border-radius: 15px; padding: 30px; margin-bottom: 30px; }
+        .settings-title { font-size: 20px; font-weight: 600; margin-bottom: 20px; color: #374151; }
+        .settings-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .setting-group { display: flex; flex-direction: column; }
+        .setting-label { font-weight: 500; margin-bottom: 8px; color: #374151; }
+        .setting-input { padding: 12px; border: 2px solid #e5e7eb; border-radius: 8px; font-size: 14px; transition: border-color 0.3s ease; }
+        .setting-input:focus { outline: none; border-color: #4f46e5; }
+        .setting-checkbox { display: flex; align-items: center; gap: 10px; }
+        .setting-checkbox input[type="checkbox"] { width: 20px; height: 20px; accent-color: #4f46e5; }
+        .convert-btn { width: 100%; padding: 15px; background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%); color: white; border: none; border-radius: 10px; font-size: 18px; font-weight: 700; cursor: pointer; transition: background 0.3s; margin-top: 20px; }
+        .convert-btn:disabled { background: #d1d5db; color: #9ca3af; cursor: not-allowed; }
+        .files-list { margin-bottom: 30px; }
+        .file-item { display: flex; align-items: center; justify-content: space-between; background: #f3f4f6; border-radius: 8px; padding: 18px 24px; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.03); }
+        .file-info { display: flex; align-items: center; gap: 18px; }
+        .file-icon { width: 48px; height: 48px; background: #e0e7ff; color: #4f46e5; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 22px; font-weight: 700; }
+        .file-details { display: flex; flex-direction: column; }
+        .file-name { font-size: 1.1em; font-weight: 600; color: #22223b; }
+        .file-size { font-size: 0.95em; color: #6b7280; }
+        .file-status { font-size: 1em; font-weight: 500; padding: 4px 12px; border-radius: 6px; margin-left: 10px; }
+        .status-pending { background: #fef3c7; color: #b45309; }
+        .status-success { background: #d1fae5; color: #047857; }
+        .status-error { background: #fee2e2; color: #b91c1c; }
+        .download-item { display: flex; align-items: center; justify-content: space-between; background: #f3f4f6; border-radius: 8px; padding: 18px 24px; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.03); }
+        .download-btn, .preview-btn, .extract-text-btn { padding: 8px 18px; border: none; border-radius: 6px; font-size: 15px; font-weight: 600; margin-left: 8px; cursor: pointer; transition: background 0.2s; }
+        .download-btn { background: #4f46e5; color: white; }
+        .download-btn:hover { background: #3730a3; }
+        .preview-btn { background: #10b981; color: white; }
+        .preview-btn:hover { background: #047857; }
+        .extract-text-btn { background: #f59e42; color: white; }
+        .extract-text-btn:hover { background: #b45309; }
+        #progress-container { display: none; margin-bottom: 30px; }
+        .progress-bar { width: 100%; background: #e5e7eb; border-radius: 8px; height: 18px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #4f46e5 0%, #7c3aed 100%); width: 0; transition: width 0.4s; }
+        .progress-text { text-align: right; font-size: 14px; color: #6b7280; margin-top: 4px; }
+        #results-section { display: none; margin-top: 40px; }
+        #summary-stats { display: flex; gap: 30px; margin-bottom: 30px; }
+        .stat-card { background: #f3f4f6; border-radius: 8px; padding: 18px 24px; text-align: center; flex: 1; }
+        .stat-number { font-size: 2em; font-weight: 700; color: #4f46e5; }
+        .stat-label { font-size: 1em; color: #6b7280; }
+        .action-buttons {
+            display: flex;
+            gap: 12px;
+            margin-top: 0;
+        }
+        .action-btn {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 18px;
+            border: none;
+            border-radius: 6px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+            text-decoration: none;
+        }
+        .download-btn {
+            background: #4f46e5;
+            color: white;
+        }
+        .download-btn:hover {
+            background: #3730a3;
+        }
+        .preview-btn {
+            background: #10b981;
+            color: white;
+        }
+        .preview-btn:hover {
+            background: #047857;
+        }
+        .extract-text-btn {
+            background: #f59e42;
+            color: white;
+        }
+        .extract-text-btn:hover {
+            background: #b45309;
+        }
+        .file-name {
+            flex: 1;
+            font-weight: 600;
+            color: #22223b;
+        }
+        .download-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: #f3f4f6;
+            border-radius: 8px;
+            padding: 18px 24px;
+            margin-bottom: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Smart Document Converter</h1>
+            <p>Seamlessly convert PDF, DOC, and DOCX files to beautiful HTML or extract clean text in one click.</p>
+        </div>
+        <div class="main-content">
+            <div class="mode-selector">
+                <button class="mode-btn active" id="single-mode-btn" onclick="switchMode('single')">Single File</button>
+                <button class="mode-btn" id="batch-mode-btn" onclick="switchMode('batch')">Batch Mode</button>
+            </div>
+            <div id="single-mode" class="conversion-section active">
+                <div class="upload-area" onclick="document.getElementById('single-file-input').click()">
+                    <div class="upload-icon">📄</div>
+                    <div class="upload-text">Click to upload a document</div>
+                    <div class="upload-subtext">or drag and drop your file here</div>
+                    <input type="file" id="single-file-input" class="file-input" accept=".pdf,.doc,.docx" onchange="handleSingleFile(this.files[0])">
+                </div>
+            </div>
+            <div id="batch-mode" class="conversion-section">
+                <div class="upload-area" onclick="document.getElementById('batch-file-input').click()">
+                    <div class="upload-icon">📁</div>
+                    <div class="upload-text">Click to upload multiple documents</div>
+                    <div class="upload-subtext">or drag and drop your files here</div>
+                    <input type="file" id="batch-file-input" class="file-input" accept=".pdf,.doc,.docx" multiple onchange="handleBatchFiles(this.files)">
+                </div>
+            </div>
+            <div id="files-list" class="files-list">
+                <h3>Selected Files</h3>
+                <div id="files-container"></div>
+            </div>
+            <div class="settings-panel">
+                <div class="settings-title">Conversion Settings</div>
+                <div class="settings-grid">
+                    <div class="setting-group">
+                        <label class="setting-label" for="image-quality">Image Quality</label>
+                        <input class="setting-input" id="image-quality" type="number" min="10" max="100" value="85">
+                    </div>
+                    <div class="setting-group">
+                        <label class="setting-label" for="pdf-dpi">PDF DPI</label>
+                        <input class="setting-input" id="pdf-dpi" type="number" min="72" max="600" value="150">
+                    </div>
+                    <div class="setting-group setting-checkbox">
+                        <input type="checkbox" id="enable-ocr" checked>
+                        <label class="setting-label" for="enable-ocr">Enable OCR for scanned PDFs</label>
+                    </div>
+                    <div class="setting-group">
+                        <label class="setting-label" for="max-workers">Max Workers</label>
+                        <input class="setting-input" id="max-workers" type="number" min="1" max="16" value="4">
+                    </div>
+                    <div class="setting-group setting-checkbox">
+                        <input type="checkbox" id="extract-html" checked>
+                        <label class="setting-label" for="extract-html">Extract HTML</label>
+                    </div>
+                    <div class="setting-group setting-checkbox">
+                        <input type="checkbox" id="extract-text" checked>
+                        <label class="setting-label" for="extract-text">Extract Text</label>
+                    </div>
+                </div>
+                <div style="margin-top:10px; color:#6b7280; font-size:14px;">Choose which outputs you want for your documents. You can select either or both.</div>
+            </div>
+            <button class="convert-btn" id="convert-btn" onclick="startConversion()">Convert</button>
+            <div id="progress-container">
+                <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+                <div class="progress-text" id="progress-text">Processing... 0%</div>
+            </div>
+            <div id="results-section">
+                <h2>Results</h2>
+                <div id="summary-stats"></div>
+                <div id="results-container"></div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal for Extracted Text -->
+    <div id="text-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: rgba(0,0,0,0.5); z-index: 9999;">
+        <div id="text-modal-content" style="background: white; max-width: 700px; margin: 60px auto; padding: 30px; border-radius: 12px; position: relative; box-shadow: 0 8px 32px rgba(0,0,0,0.2);">
+            <button id="close-text-modal" style="position: absolute; top: 10px; right: 10px; font-size: 20px; background: none; border: none; cursor: pointer;">&times;</button>
+            <h2>Extracted Text</h2>
+            <pre id="extracted-text-content" style="white-space: pre-wrap; max-height: 60vh; overflow-y: auto; background: #f8fafc; padding: 15px; border-radius: 8px; margin-top: 20px;"></pre>
+        </div>
+    </div>
+    <script>
+        // --- Mode Switching ---
+        function switchMode(mode) {
+            document.getElementById('single-mode-btn').classList.toggle('active', mode === 'single');
+            document.getElementById('batch-mode-btn').classList.toggle('active', mode === 'batch');
+            document.getElementById('single-mode').classList.toggle('active', mode === 'single');
+            document.getElementById('batch-mode').classList.toggle('active', mode === 'batch');
+            clearFiles();
+        }
+
+        // --- File Handling ---
+        let selectedFiles = [];
+        function handleSingleFile(file) {
+            if (file) {
+                selectedFiles = [file];
+                updateFilesList();
+            }
+        }
+        function handleBatchFiles(fileList) {
+            selectedFiles = Array.from(fileList);
+            updateFilesList();
+        }
+        function clearFiles() {
+            selectedFiles = [];
+            updateFilesList();
+        }
+
+        // --- Drag & Drop ---
+        function setupDragAndDrop(areaId, inputId, isBatch) {
+            const area = document.getElementById(areaId);
+            const input = document.getElementById(inputId);
+            area.addEventListener('dragover', (e) => {
+                e.preventDefault();
+                area.classList.add('dragover');
+            });
+            area.addEventListener('dragleave', (e) => {
+                e.preventDefault();
+                area.classList.remove('dragover');
+            });
+            area.addEventListener('drop', (e) => {
+                e.preventDefault();
+                area.classList.remove('dragover');
+                if (isBatch) {
+                    handleBatchFiles(e.dataTransfer.files);
+                } else {
+                    handleSingleFile(e.dataTransfer.files[0]);
+                }
+            });
+        }
+        setupDragAndDrop('single-mode', 'single-file-input', false);
+        setupDragAndDrop('batch-mode', 'batch-file-input', true);
+
+        // --- File List UI ---
+        function updateFilesList() {
+            const container = document.getElementById('files-container');
+            container.innerHTML = '';
+            if (selectedFiles.length === 0) {
+                document.getElementById('files-list').style.display = 'none';
+                document.getElementById('convert-btn').disabled = true;
+                return;
+            }
+            document.getElementById('files-list').style.display = 'block';
+            document.getElementById('convert-btn').disabled = false;
+            selectedFiles.forEach((file, idx) => {
+                const div = document.createElement('div');
+                div.className = 'file-item';
+                div.innerHTML = `
+                    <div class="file-info">
+                        <div class="file-icon">${getFileIcon(file.name)}</div>
+                        <div class="file-details">
+                            <span class="file-name">${file.name}</span>
+                            <span class="file-size">${formatFileSize(file.size)}</span>
+                        </div>
+                    </div>
+                    <button onclick="removeFile(${idx})" style="background:#fee2e2;color:#b91c1c;border:none;padding:8px 14px;border-radius:6px;font-weight:600;cursor:pointer;">Remove</button>
+                `;
+                container.appendChild(div);
+            });
+        }
+        function removeFile(idx) {
+            selectedFiles.splice(idx, 1);
+            updateFilesList();
+        }
+        function getFileIcon(name) {
+            const ext = name.split('.').pop().toLowerCase();
+            if (ext === 'pdf') return '📄';
+            if (ext === 'doc' || ext === 'docx') return '📝';
+            return '📁';
+        }
+        function formatFileSize(bytes) {
+            if (bytes < 1024) return bytes + ' B';
+            if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + ' KB';
+            return (bytes / (1024 * 1024)).toFixed(1) + ' MB';
+        }
+
+        // --- Conversion Button ---
+        function startConversion() {
+            if (selectedFiles.length === 0) return;
+            // Collect settings
+            const settings = {
+                imageQuality: parseInt(document.getElementById('image-quality').value, 10),
+                pdfDpi: parseInt(document.getElementById('pdf-dpi').value, 10),
+                enableOcr: document.getElementById('enable-ocr').checked,
+                maxWorkers: parseInt(document.getElementById('max-workers').value, 10),
+                extractHtml: document.getElementById('extract-html').checked,
+                extractText: document.getElementById('extract-text').checked
+            };
+            // Show progress
+            document.getElementById('progress-container').style.display = 'block';
+            document.getElementById('progress-fill').style.width = '0%';
+            document.getElementById('progress-text').innerText = 'Processing... 0%';
+            // Prepare form data
+            const formData = new FormData();
+            selectedFiles.forEach(f => formData.append('files', f));
+            Object.entries(settings).forEach(([k, v]) => formData.append(k, v));
+            // Send to backend
+            fetch('/convert', {
+                method: 'POST',
+                body: formData
+            }).then(async (res) => {
+                if (!res.ok) throw new Error('Conversion failed');
+                const data = await res.json();
+                showResults(data);
+            }).catch(err => {
+                alert('Error: ' + err.message);
+            }).finally(() => {
+                document.getElementById('progress-container').style.display = 'none';
+            });
+        }
+
+        // --- Results UI (stub) ---
+        function showResults(data) {
+            document.getElementById('results-section').style.display = 'block';
+            document.getElementById('summary-stats').innerHTML = '<div class="stat-card"><div class="stat-number">' + (data.success || 0) + '</div><div class="stat-label">Success</div></div>' +
+                '<div class="stat-card"><div class="stat-number">' + (data.failed || 0) + '</div><div class="stat-label">Failed</div></div>';
+            document.getElementById('results-container').innerHTML = (data.results || []).map(r =>
+                `<div class="download-item">
+                    <span class="file-name">${r.name}</span>
+                    <div class="action-buttons">
+                        ${r.downloadUrl ? `<a class="action-btn download-btn" href="${r.downloadUrl}" download title="Download"><span>⬇️</span> Download</a>` : ''}
+                        ${r.downloadUrl ? `<a class="action-btn preview-btn" href="${r.downloadUrl}" target="_blank" title="View HTML"><span>👁️</span> View HTML</a>` : ''}
+                        ${r.textUrl ? `<button class="action-btn extract-text-btn" onclick="showTextModal('${r.textUrl}')" title="View Text"><span>📝</span> View Text</button>` : ''}
+                    </div>
+                </div>`
+            ).join('');
+        }
+
+        // --- Modal for Extracted Text ---
+        function showTextModal(url) {
+            fetch(url).then(res => res.text()).then(text => {
+                document.getElementById('extracted-text-content').innerText = text;
+                document.getElementById('text-modal').style.display = 'block';
+            });
+        }
+        document.getElementById('close-text-modal').onclick = function() {
+            document.getElementById('text-modal').style.display = 'none';
+        };
+        // Hide modal on outside click
+        document.getElementById('text-modal').onclick = function(e) {
+            if (e.target === this) this.style.display = 'none';
+        };
+    </script>
+</body>
+</html>

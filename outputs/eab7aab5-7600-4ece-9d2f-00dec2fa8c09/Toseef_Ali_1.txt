@@ -1,0 +1,344 @@
+Toseef Ali
+Cell - (239) 663-0461
+E-Mail – alitoseef0501@gmail.com
+Certifications
+• Salesforce Certified Administrator
+• Salesforce Certified Platform App Builder
+• Salesforce Certified Sales Cloud Consultant
+• Salesforce Certified Service Cloud Consultant
+• Salesforce Certified Platform Developer I
+• Salesforce Certified Data Architect
+• Salesforce Certified Data Cloud Consultant
+• Salesforce Certified Application Architect
+• Salesforce Certified Experience Cloud Consultant
+• Salesforce Certified AI Specialist
+• Salesforce Certified Agentforce Specialist
+• Salesforce Certified Sharing and Visibility Architect
+Professional Summary
+• Over 13+ years of experience as a Salesforce Architect, specializing in development, configuration, and customization across
+Sales Cloud, Service Cloud, Marketing Cloud, Experience Cloud, Health Cloud and Financial Service Cloud.
+• Experience with Apex programming, including writing Apex Classes, Triggers, Batch Apex, Queueable Apex, and Scheduled
+Apex for scalable and efficient backend solutions.
+• Proficient custom Apex Triggers to handle intricate business logic and enforce validation rules, ensuring seamless automation
+and data integrity.
+• Expertise in developing Visualforce Pages to create dynamic, interactive user interfaces with custom controllers and extensions
+tailored to business requirements.
+• Proficient in building modern user interfaces using Lightning Aura Components and Lightning Web Components (LWC) for
+enhanced performance and maintainability.
+• Expertise in configuring and customizing Salesforce Clouds (Sales, Service, Marketing, and Community) to align with business
+needs and enhance operational workflows.
+• Experience in creating and customizing Lightning Pages, App Builder, and leveraging Lightning Components for consistent and
+visually appealing UI/UX.
+• Proficient in using Salesforce Lightning Design System (SLDS) to ensure consistency with Salesforce design standards in
+custom Lightning components.
+• Experience in debugging and optimizing Apex code, SOQL, and SOSL queries to adhere to governor limits and improve overall
+performance.
+• Experience in integrating Salesforce with external systems via Apex Callouts, REST, and SOAP APIs, ensuring secure and
+seamless data communication.
+• Proficient in implementing scalable Batch Apex solutions and asynchronous processes to handle large data volumes and complex
+logic effectively.
+• Experience with cross-functional teams to translate business requirements into technical solutions using Apex, Visualforce, and
+Lightning Frameworks.
+• Experience in Configuration of Einstein AI for predictive insights, complementing Data Cloud's AI-driven data analysis and
+trend identification.
+• Expertise in automating business processes using Process Builder, Workflows, and Flows, reducing manual effort and increasing
+efficiency.
+• Hands-on experience with Platform Events and Custom Metadata Types to implement event-driven workflows and enhance
+configurability in solutions.
+• Skilled in deploying Salesforce applications across environments using tools like Salesforce DX, Visual Studio Code, Gearset,
+Jenkins, Change Sets, and Workbench.
+• Proficient in version control using Git (GitHub and GitLab) to maintain codebase integrity and streamline collaborative
+development.
+• Skilled in third-party tools like Conga, DocuSign, and other AppExchange products to extend Salesforce functionalities and
+streamline workflows.
+• Experience in designing and implementing dynamic SOQL and SOSL queries to enable custom reporting and data filtering
+requirements for end-users.
+• Experience in designing end-to-end Salesforce solutions with a focus on optimizing business processes and enhancing customer
+experience.
+• Expertise in Salesforce Lightning (Lightning Experience, LWC, Aura Components) for custom application development.
+• Expertise in Vlocity, OmniScripts, Integration Procedures, and DataRaptor for seamless data extraction, transformation, and
+automation.
+• Skilled in creating custom applications using Visualforce, Apex Triggers, and Lightning components to meet complex business
+needs.
+• Expertise in scalable Salesforce CRM solutions, optimizing performance and ensuring seamless user experience across multi-
+cloud environments.
+Work Experience
+Lead Salesforce Developer/Architect
+CVS Health, Woonsocket, RI May 2022 – Present
+Responsibilities:
+• Led the design and implementation of patient profiles in Health Cloud, providing a comprehensive view that included
+demographics, care plans, and communication history.
+• Led Salesforce architecture design and implemented scalable solutions to streamline operations in Sales, Service, and Health
+Cloud.
+• Led and customized Care Teams in Health Cloud to define roles and responsibilities of healthcare providers and support staff
+for improved collaboration.
+• Led and automated care plans in Health Cloud for chronic disease management and post-discharge workflows, ensuring seamless
+patient care.
+• Led scalable data architectures in Health Cloud, using Salesforce Connect, SOQL, and SQL for efficient integration with external
+databases.
+• Troubleshot Apex-heavy codebase by analyzing complex dependencies, debugging nested triggers, and refactoring inefficient
+code.
+• Designed and implemented custom Apex services for external systems to consume, ensuring scalability and reusability.
+• Implemented Salesforce Shield in Health Cloud to secure sensitive patient data, using Platform Encryption and Event Monitoring
+to meet HIPAA compliance standards.
+• Designed and implemented scalable data architectures, integrating Salesforce with external databases using Salesforce Connect,
+SOQL and SQL.
+• Designed SOSL-based search functionalities to enable efficient, text-based queries across multiple objects, enhancing the
+platform's search capabilities.
+• Developed Apex Classes, Triggers, and asynchronous Apex (Batch Apex, Queueable Apex) to handle complex data processes
+and ensure scalable backend operations.
+• Created custom Visualforce Pages with dynamic content, incorporating Apex controllers and extensions to provide interactive,
+client-specific solutions.
+• Configured Lightning Knowledge to streamline article management and improve content accessibility for customer support
+teams in the Service Cloud
+• Developed and managed custom APIs for secure, real-time data exchange, a core feature of Data Cloud's event-driven
+architecture.
+• Implemented CI/CD pipelines for Salesforce Health Cloud deployments using GitLab CI, improving release cycle speed for
+patient engagement features.
+• Utilized Salesforce APIs, web services, and integration patterns to enable seamless data exchange with external platforms,
+including real-time data synchronization.
+• Integrated SFDC with third-party systems (ERP, Azure Databricks, financial systems) using REST/SOAP APIs and middleware
+(Mulesoft, Informatica).
+• Designed complex flows and approval processes to automate business operations, improving accuracy and reducing processing
+times.
+• Designed and implemented comprehensive patient profiles in Health Cloud, aligning with Data Cloud's ability to unify and
+segment patient data.
+• Developed custom OmniScripts and Integration Procedures using Salesforce Omnistudio to ensure seamless data flow between
+Salesforce and external systems.
+• Integrated Salesforce with external EHR systems using REST APIs and HL7 standards, ensuring real-time data synchronization
+like Data Cloud.
+• Implemented multi-level cascading approval rules using Flows and Apex, ensuring compliance with organizational policies.
+• Worked on large-scale data migrations, writing custom Apex scripts and utilizing data tools like Apex Data Loader to ensure
+accurate and consistent data transfers.
+• Integrated third-party applications with Salesforce using RESTful web services, enhancing platform capabilities and user
+experience.
+• Configured Omni-Channel Routing and Service Cloud Voice for optimized case handling and real-time customer support
+integration.
+• Integrated static code analysis into the CI/CD workflow for Salesforce health apps, ensuring HIPAA-compliant code quality.
+• Provided training to junior developers and admins on Salesforce best practices, LWC development, and DevOps tools, fostering
+a culture of innovation and technical excellence.
+• Designed and implemented custom solutions using Salesforce Omnistudio for complex data processing and real-time content
+generation across multiple channels.
+• Delivered enterprise-wide integrations with systems like ERP, marketing automation, and data warehouses using Mulesoft,
+REST APIs, and SOAP APIs.
+• Integrated Salesforce with third-party financial and healthcare systems (including ERP, Sage, EHRs) via REST/SOAP APIs,
+MuleSoft, and OAuth-based authentication.
+• Designed API-first solutions, developing custom RESTful APIs to facilitate seamless data exchange with external applications.
+• Built real-time data synchronization between Salesforce and enterprise data platforms (Azure Databricks, AWS) to ensure a
+single source of truth.
+• Enhanced patient engagement with automated care plans and Health Assessments, mirroring Data Cloud's journey orchestration
+capabilities.
+• Defined integration patterns, ensuring robust and secure data exchange between Salesforce and external systems.
+• Developed and managed custom APIs to facilitate secure data exchange between Salesforce and third-party applications such as
+custom web portals and mobile apps, ensuring a seamless user experience.
+• Customized and maintained Salesforce Communities to provide tailored self-service portals for customers and partners,
+improving engagement and collaboration.
+• Developed custom Lightning Web Components (LWCs) integrated with external APIs, enabling real-time updates and
+enhancing the user experience with external data visibility.
+• Created advanced data partitioning strategies to optimize storage usage, ensuring alignment with Salesforce governor limits
+while handling high-volume data operations.
+• Optimized Health Cloud workflows with complex Flows and approval processes, automating care coordination and reducing
+administrative overhead.
+• Utilized Salesforce Omnistudio to streamline the creation of dynamic forms and reusable components for efficient data collection
+and validation.
+• Implemented Salesforce Shield for HIPAA compliance, ensuring encrypted, secure data handling like Data Cloud's governance
+features.
+• Integrated Salesforce Omnistudio into existing Salesforce workflows to enhance customer journey management and automate
+personalized interactions.
+• Automated Salesforce backup and recovery processes, leveraging third-party tools to ensure data protection and reduce recovery
+times during system outages.
+• Utilized Health Cloud to enhance customer journey management, automating personalized interactions and improving patient
+outcomes through integrated workflows and dynamic forms.
+• Designed and implemented custom solutions using Vlocity Studio, leveraging its industry-specific capabilities to streamline
+complex business processes and improve operational efficiency.
+• Implemented Data Cloud's identity resolution capabilities to unify disparate patient and customer records, ensuring a single,
+comprehensive profile across multiple data sources.
+• Optimized Salesforce Omnistudio solutions for performance, ensuring smooth execution of complex data transformations and
+• Developed custom Vlocity OmniScripts and Integration Procedures, enabling dynamic and personalized customer interactions
+while reducing development time and effort.
+• Implemented Einstein Bots, Einstein Article Recommendations, and Next Best Action to enhance customer and patient
+engagement.
+• Designed complex Flows and approval processes to automate case management, patient journeys, and financial operations.
+• Configured Omni-Channel Routing and Service Cloud Voice, improving case handling efficiency and response times.
+• Designed and implemented custom solutions using Salesforce Omnistudio for complex data processing and real-time content
+generation across multiple channels.
+• Configured and managed Salesforce Einstein AI features for predictive insights, lead scoring, and automation, enhancing
+intelligence-driven business operations.
+• Ensured adherence to industry-specific regulations like HIPAA and GDPR by implementing secure eSignature processes with
+Adobe Sign.
+Lead Salesforce Developer/Architect
+Tech Mahindra, Plano, TX Dec 2019 – Apr 2022
+Responsibilities:
+• Led requirements gathering sessions and translated business needs into Salesforce technical solutions, focusing on Sales Cloud
+implementations.
+• Led and collaborated with cross-functional teams for requirement gathering, design, development, testing, and deployment of
+Salesforce Service Cloud solutions.
+• Led and implemented MuleSoft-based API integrations to enable seamless data exchange between Salesforce and external
+systems.
+• Developed ASF-based (API Specification Framework) integrations for structured, scalable API interactions across enterprise
+platforms.
+• Built RESTful and SOAP web services to integrate Salesforce Sales Cloud with Siebel CRM, ERP systems, and third-party
+applications.
+• Led Siebel CRM to Salesforce migration, mapping Siebel business components, workflows, and customer data to Salesforce
+objects.
+• Designed and deployed Lightning Web Components (LWC) and Aura Components to deliver modular, high-performing, and
+interactive user interfaces.
+• Utilized Salesforce APIs and web services (SOAP/REST) to integrate Salesforce with external systems, enabling seamless data
+communication.
+• Automated business processes using Salesforce Flows and Process Builder, reducing manual tasks and improving accuracy.
+• Configured Omni-Channel Routing to optimize case assignments, improving agent productivity and customer satisfaction.
+• Developed Approval Processes, Escalation Rules, and triggers for automated business workflows, ensuring compliance with
+organizational standards.
+• Implemented Marketing Cloud Advertising Studio to synchronize CRM data with digital ad platforms, improving ad targeting
+and campaign ROI.
+• Designed personalized customer experiences by leveraging Marketing Cloud Interaction Studio for real-time decisioning.
+• Configured Marketing Cloud Einstein for AI-powered recommendations, email send-time optimization, and content
+personalization.
+• Conducted UAT sessions, troubleshooting SOQL and SOSL-based queries and Apex code to resolve issues before deployment.
+• Implemented custom metadata and custom settings to manage dynamic business rules and configurations, reducing hardcoded
+logic and enhancing maintainability.
+• Optimized Salesforce performance by refactoring Apex triggers and batch jobs, ensuring compliance with governor limits and
+improving overall system efficiency.
+• Implemented Knowledge Articles with advanced categorization and recommendations for faster issue resolution, enhancing self-
+service capabilities.
+• Designed and optimized order management workflows to streamline order-to-cash processes, ensuring accurate and timely order
+fulfilment.
+• Implemented Sales Cloud CPQ (Configure, Price, Quote) solutions to standardize product configurations, pricing approvals, and
+quote generation.
+• Built Field Service Lightning (FSL) Optimization Rules to auto-assign the most qualified technicians based on skills, location,
+and availability.
+• Implemented Marketing Cloud Advertising Studio to synchronize CRM data with digital ad platforms, improving ad targeting
+and campaign ROI.
+• Designed personalized customer experiences by Marketing Cloud Interaction Studio for real-time decisioning.
+• Configured Marketing Cloud Einstein for AI-powered recommendations, email send-time optimization, and content
+personalization.
+• Designed and deployed custom Mobile Flows for Field Service technicians, allowing seamless data entry, guided service steps,
+and offline support via Salesforce Field Service Mobile App
+• Configured Experience Cloud SSO authentication and external identity provider integrations for enhanced security.
+• Configured advanced sales dashboards and metrics to provide sales teams with real-time visibility into performance,
+opportunities, and pipeline health, enabling proactive sales management.
+• Developed Apex REST APIs to integrate external applications with Experience Cloud for seamless data flow.
+• Implemented custom lead management workflows to streamline lead nurturing, scoring, and conversion, ensuring efficient
+handoff between marketing and sales teams.
+• Optimized forecasting models within Sales Cloud using historical data, allowing accurate revenue projections and driving
+strategic sales planning.
+• Configured and optimized Marketing Cloud to drive personalized customer engagement across multiple channels.
+• Implemented Journey Builder workflows in Marketing Cloud for automated, personalized customer interactions based on real-
+time engagement data.
+• Designed and documented Salesforce and Marketing Cloud architectures using UML Class Diagrams, Component Diagrams,
+and Deployment Diagrams, ensuring scalable and maintainable solutions.
+• Built custom LWC components within Experience Cloud to optimize user experience and streamline interactions.
+• Automated data migration and synchronization between Salesforce and legacy systems using tools like Data Loader, Workbench,
+and custom Apex scripts, ensuring seamless data accuracy and completeness.
+• Integrated Salesforce Marketing Cloud (SFMC) with social media platforms to streamline content distribution and improve
+audience engagement across multiple channels.
+• Integrated Adobe Sign with Salesforce to enable secure, compliant, and automated eSignature workflows for contracts,
+agreements, and forms.
+• Configured triggers and custom buttons for one-click document sending and tracking via Adobe Sign directly within Salesforce
+records.
+• Optimized Experience Cloud performance through caching strategies and Lightning Experience enhancements.
+• Implemented multi-cloud solutions by integrating Sales Cloud, Service Cloud, and Marketing Cloud to create a unified customer
+experience across all touchpoints.
+• Integrated Salesforce Einstein Analytics with CRM data to build insightful dashboards and predictive models, enabling data-
+driven decision-making and proactive customer engagement strategies.
+• Integrated Vlocity with third-party systems using Integration Procedures and REST APIs to ensure real-time data
+synchronization.
+Sr. Salesforce Developer
+Deutsche Bank, New York, NY Oct 2017 - Nov 2019
+Responsibilities:
+• Led configuration of client and household profiles to provide a view of financial relationships, assets, liabilities, and interactions.
+• Led implementation of Relationship Groups and Financial Accounts to manage client portfolios.
+• Designed and streamlined client onboarding processes, including KYC/AML compliance and automated document submission
+workflows.
+• Supported wealth management tools for tracking financial goals and recommending investment strategies.
+• Designed robust role-based access controls and implemented Shield Platform Encryption to protect sensitive financial data.
+• Developed Lightning Flows and Process Builders to automate lead routing, opportunity tracking, and financial product
+enrolment.
+• Integrated FSC with ERP, Azure Databricks, and third-party accounting platforms using REST/SOAP APIs.
+• Automated loan application approvals, mortgage tracking, and insurance claims processes.
+• Developed custom applications using Apex, Lightning Web Components (LWC), and Aura, focusing on reusable and modular
+designs.
+• Built custom Apex Triggers to automate complex business rules and workflows, ensuring seamless data management and error-
+free processing.
+• Created Visualforce Pages with embedded Apex logic to meet unique client requirements for interactive and intuitive interfaces.
+• Developed reusable and modular Lightning Web Components (LWC) to streamline development efforts, improve
+maintainability, and enhance the scalability of applications.
+• Implemented complex parent-child component communication using custom events to ensure seamless data sharing across
+LWCs.
+• Implemented Revenue Cloud (CPQ & Billing) to streamline the quote-to-cash process, optimizing product bundling,
+discounting, and approval workflows.
+• Automated contract lifecycle management by integrating Salesforce Revenue Cloud Billing with CPQ, ensuring accurate
+invoicing and revenue recognition.
+• Migrated legacy Salesforce Classic functionality to Lightning Experience, ensuring enhanced user interface capabilities and
+improved performance while maintaining existing business processes.
+• Created LWC-based custom data tables and forms with advanced functionalities, including inline editing, sorting, and filtering,
+tailored to meet specific business requirements.
+• Developed FSC-based custom revenue forecasting dashboards for financial reporting and CPQ sales performance tracking.
+• Integrated Salesforce CPQ with Bloomberg and third-party pricing engines, enabling real-time financial data synchronization.
+• Developed ETL pipelines for SFDC FSC, enabling data extraction, transformation, and loading for analytics and compliance
+reporting.
+• Implemented real-time and batch data synchronization between SFDC CPQ and external systems.
+• Integrated Salesforce with third-party systems using REST and SOAP APIs, as well as middleware platforms like Mulesoft,
+enabling seamless data exchange and business process automation.
+• Delivered CI/CD pipeline templates for Salesforce integrations to reduce setup time and ensure consistent deployment across
+wealth management divisions.
+• Managed CRM migrations from legacy systems to Salesforce, ensuring data integrity and minimal downtime.
+• Delivered training sessions for end-users and stakeholders, ensuring smooth adoption of Salesforce solutions and Lightning
+Experience functionalities.
+• Migrated legacy Visualforce pages to FSC Lightning Experience to modernize UI for financial advisors and client managers.
+• Integrated Salesforce CPQ with ERP, Azure Databricks, and other enterprise applications using REST/SOAP APIs.
+• Integrated Revenue Cloud with ERP and accounting systems to ensure seamless revenue tracking, financial forecasting, and
+audit compliance.
+• Implemented FSC Shield Platform Encryption and role-based access controls to protect sensitive financial data.
+• Integrated Salesforce CPQ with external billing systems to ensure seamless quote-to-cash processes.
+• Integrated Salesforce with third-party financial systems via REST and SOAP APIs to streamline data exchange between SFDC
+and accounting platforms.
+• Optimized Salesforce Service Cloud implementations by managing Governor Limits and SOQL/DML operations for efficient
+Apex execution. and amendment processes, ensuring seamless contract modifications and pricing adjustments for financial
+products.
+• Developed and maintained custom APIs for integrating Salesforce with custom-built applications, ensuring seamless data
+exchange and process automation.
+• Configured CPQ security model with role-based access, permission sets, and approval hierarchies.
+• Developed FSC-based wealth management tools to track financial goals and provide investment strategy recommendations.
+Sr. Salesforce Developer
+Ulta Beauty, Bolingbrook, IL Sept 2015 – August 2017
+Responsibilities:
+• Set up Marketing Cloud to manage email campaigns, journey automation, and audience segmentation.
+• Designed personalized customer journeys using Journey Builder to enhance engagement and conversion rates.
+• Integrated Salesforce with third-party systems using SOAP and REST APIs, ensuring seamless data exchange and
+interoperability.
+• Configured Sales Cloud Lead Management processes, automating lead assignment, scoring, and conversion to improve sales
+efficiency.
+• Implemented automated case management and escalation workflows using Flow Builder and Process Builder to enhance
+customer service efficiency.
+• Implemented batch Apex solutions to manage large datasets and ensure smooth processing of complex operations.
+• Configured Marketing Cloud Mobile Studio for SMS and push notifications, improving customer outreach and engagement.
+• Integrated Salesforce with external analytics platforms, such as Tableau and Power BI, to provide real-time insights and
+comprehensive reporting capabilities.
+• Designed and deployed real-time dashboards and reports in Salesforce Service Cloud and Marketing Cloud to track agent
+productivity, response times, and customer satisfaction metrics.
+• Developed custom reporting solutions using Salesforce Reports & Dashboards and Tableau CRM to monitor KPIs.
+• Configured advanced customer segmentation in Salesforce Marketing Cloud, leveraging data extensions and SQL queries to
+create targeted campaigns and improve engagement rates.
+• Configured multi-channel sales engagement in Sales Cloud, including email automation, call tracking, and follow-up reminders.
+Salesforce Developer
+Subzero, Madison, WI Feb 2012 - Aug 2015
+Responsibilities:
+• Worked closely with developers to design and implement Apex Classes, Triggers, and Batch Apex to meet complex business
+needs.
+• Conducted UAT sessions to validate SOQL-based queries, Apex code, and automated workflows for accuracy and effectiveness.
+• Monitored dashboards and reports to provide actionable insights and improve decision-making processes.
+• Configured advanced forecasting capabilities in Sales Cloud, enabling sales managers to track performance metrics, predict
+revenue, and set realistic targets based on historical data trends.
+• Configured Salesforce Marketing Cloud (SFMC) for automated email journeys and triggered campaigns, ensuring timely and
+targeted messaging to customers. Developed custom Visualforce pages using HTML, CSS, and JavaScript, improving UI/UX
+for sales and customer service teams.
+• Utilized Salesforce Marketing Cloud (SFMC) to manage multichannel campaigns, including social media, web, and mobile
+platforms, for a seamless customer experience.
+• Developed SOAP API-based middleware architecture for synchronous data retrieval from third-party applications into
+Salesforce custom objects.
+• Designed disaster recovery plan integrating backup and rollback into Salesforce CI/CD pipelines using SFDX and Jenkins.
+• Integrated Salesforce Service Cloud with third-party ticketing systems to enhance case management and provide efficient
+support to end-users.
+EDUCATION
+Bachelor's from University of Peshawar in 2003

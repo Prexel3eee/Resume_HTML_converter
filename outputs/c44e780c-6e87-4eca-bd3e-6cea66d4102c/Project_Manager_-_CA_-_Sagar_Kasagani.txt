@@ -1,0 +1,157 @@
+VIDYASAGAR KASAGANI 916 980 6801
+NOTIFYSAGAR007@GMAIL.COM
+HTTPS://WWW.LINKEDIN.COM/IN/KVS-AI
+SUMMARY OF STRENGTHS & ACCOMPLISHMENTS
+With over 18 years of project management and project architecture experience, I bring extensive expertise across
+the entire SDLC. My strengths encompass proficiency in requirements analysis, solution development, efficient
+delivery, and ongoing support. I implement project management methodologies within the PMI framework to
+ensure efficient solution delivery, fostering effective collaboration with Offshore PMOs and IT teams. My core
+competency lies in translating customer requirements into precise system design specifications, focusing on
+enterprise applications. I hold certifications, including ITIL V3 Foundation and Six Sigma Greenbelt, and I have
+presented 18 white papers on SDLC models at national conventions. I have earned commendations for my
+contributions to renowned organizations such as AT&T, IBM, Lucent Technologies, Ernst & Young LLP,
+GlaxoSmithKline Pl., and Merck & Co.
+KEY COMPETENCIES
+Global Program Management Electronic Legal Discovery
+Off-shore/Multi-site Team Management Data Warehousing
+Systems Design/Integration Business Intelligence
+Strategic Systems Planning Enterprise Data Modeling
+Clinical Research & Trial Management Risk Management
+E-Commerce Implementation Business Analytics
+BPMS Design and Automation Knowledge Management
+Six Sigma Processes Improvement Software Development Life Cycle
+GAMP 5 Practice Pharma Compliance Management
+PROFESSIONAL SKILLS
+Sharpa eLegal Discovery, Pre-Clinical Software, SAP SD, SAP PP, SAP ATTP Serialization, TraceLink
+Serialization. PM Tools, Informatica ETL, SharePoint, Azure, AWS, Cognos BI, BPMS, SOAP, DataOps,
+OOA/OOD, UML, EAI/EII, HTML, XML, XSLT, MDB, MVC, JavaScript, C/C++, Net. Data, Oracle, MS SQL,
+ODBC, JDBC, Erwin, COBOL, ASP.net, Snowflake, Mobile Computing on Android, Lotus Notes Domino.
+BOOK AND JOURNAL PUBLICATIONS
+1. Authored a Book: "ENSURING PATIENT SAFETY: A Comprehensive Guide to Implementing Traceability
+and Pharmaceutical Serialization Guidelines—An Exemplary Approach to TrackNTrace in the Supply
+Chain." Under review by Notion Press, scheduled for release in May 2024. This book details the challenges
+faced during Serialization implementation, drawing from consulting experiences with CMOs of Pfizer, Merck,
+Rising Pharma, and more than 12 other firms. It covers compliance guidelines from FDA, MHRA, TGA, and
+KFA.
+2. Published in the International Journal of Life Science and Pharma Research titled “Design and
+Implementation of a Track n trace 2D Multi Scanner Bulk Code Reader for Pharmaceutical Packaging
+International Journal of Life Science and Pharma Research VOLUME 13 ISSUE 2, MARCH 2023 / ISSN
+2250-0480.
+3. Published in the International Journal Dental and Medical Sciences Research titled “Implementation of a
+Pharma Enterprise Ecosystem for Medical Drugs Traceability. International Journal of Dental and Medical
+Sciences Research Volume 4, Issue 3, May-June 2022 pp 497-504 www.ijdmsrjournal.com
+SSN: 2582-6018 (UGC CARE, Scopus).
+ARTICLES IN LINKEDIN AND KNOWLEDGE REPOSITORY
+1. Ensuring Quality and Compliance - The Importance of Batch Manufacturing Records in Pharmaceutical Drug
+Manufacturing.
+2. Strategies for Implementing a Track and Trace System in Pharmaceutical Tracking.
+3. SAP Advanced Track and Trace for Pharmaceuticals - Serialization Tasks
+4. Steps and guidelines check points for CFR Part 11 Compliance
+5. The Drug Supply Chain Security Act
+6. Essential Functions and Features Needed in SAP ATTP
+7. What is Computer System Validation in Pharmaceuticals?
+8. What is 21 CFR Part 11?
+9. What are the requirements outlined in 21 CFR Part 11?
+10. Questions to ask QA Department during the implementation of SAP ATTP for serialization in
+pharmaceuticals firms.
+11. Questions to ask IT Department during the implementation of SAP ATTP for serialization in pharmaceuticals
+firms.
+12. Implementing SAP Advanced Track and Trace for Pharmaceuticals,
+13. Revolutionizing Pharmaceuticals and Life Sciences with AI and Machine Learning.
+14. Pharmaceutical Manufacturing and Packaging with Machine Learning.
+15. Navigating the Future - Emerging Trends in Pharmaceutical Regulatory Compliance.
+KEY ACCOMPLISHMENTS
+1. Accomplished project manager with a consistent record of accomplishment of successful project delivery and
+demonstrated leadership in steering 27 highly visible corporate projects to success.
+2. Utilizes a results-driven approach to manage project delivery efficiently, implementing Agile Project
+Management methodologies to consistently meet sponsor objectives without compromising quality, schedule,
+or cost.
+3. Effective at balancing technical expertise with strategic business goals, resulting in successful project
+outcomes.
+4. Implemented barcode Serialization solutions for TraceLink SAP ATTP platforms for leading pharma firms
+with integration to multiple third-party line management services.
+5. Maintains an impressive 100% success rate with zero project failures throughout my tenure as a Project
+Manager.
+6. Spearheads Pre-Clinical Trials Study management, overseeing recruitment, regulatory reporting, and
+compliance with FDA, MHRA, TGA, and ANVISA.
+7. Managed projects with a cumulative budget exceeding US$86 million since 2001.
+8. Earned over 32 service awards and expressions of appreciation, with more continually adding to this tally.
+PROFESSIONAL PROFILE
+As an experienced Project Delivery expert, specialized in leading enterprise projects within the
+pharmaceutical and life science industry, addressing budget constraints and prior setbacks. The approach
+involves assembling dedicated teams, analyzing past failures, and establishing effective strategies to achieve
+project milestones without compromising quality.
+Under this leadership, strict compliance with pharmaceutical manufacturing guidelines was ensured, an Audit
+Defense System for GAMP 5 compliance was developed, and collaboration with regulatory authorities such
+as FDA, ANVISA, DGFT, KFDA, TGA, BDA, CFDA, and EMA was initiated to combat counterfeit drug
+production.
+Consultancy services were extended to assist over 28 pharmaceutical firms in meeting the requirements of the
+US DSCSA (Drug Supply Chain Security Act) regulation. These services were facilitated through close
+collaborations with prominent pharmaceutical industry leaders, including TEVA, TARO, Breckenridge,
+Alvogen, Rising Pharma, and Sun Pharmaceuticals, resulting in the delivery of customized solutions.
+Technology Used: SAP SD, SAP PP, SAP ATTP, TraceLink, ASP.net, SQL Server 2016, XML, Web Services,
+Project Management Tools.
+January 2014 to To-date SolutionsMax Technology Services. Sacramento, CA
+Principal Project Consultant
+In this role, I provided comprehensive support to SolutionsMax customers across various domains. This
+involved delivering technical services for SAP implementation, ensuring compliance with regulatory practices,
+and providing quality management services. Additionally, I actively contributed to project management service
+delivery, ensuring projects were executed within scope, schedule, and cost constraints. I worked on the Drug
+Serialization Project on the SAP ATTP platform and TraceLink Platform for regulatory agencies such as US
+FDA, MHRA, and TGA. I authored articles and conducted training on DSCSA Guidelines for the FDA,
+assisting numerous customer partner sites outside the USA with onboarding.
+Responsibilities have encompassed the deployment of Quality Management Systems (QMS), which have been
+seamlessly integrated with Corrective and Preventive Actions (CAPA) and Customer Complaints Handling
+(CCF) processes. In addition to this, a pivotal role has been played in the architectural design of Pharma
+Ecosystem solutions, which are currently in the final stages of implementation.
+During my tenure at SolutionsMax, the opportunity has arisen to serve esteemed life science and
+pharmaceutical companies, including but not limited to Merck, Natco, Rising Pharma, Breckenridge, Sun
+Pharma, TEVA, TARO, Alvogen, and various others. Implemented Serialization/Track & Trace specifically
+at these pharmaceutical firms.
+The latest implementation occurred at Rising Pharma in Decatur, Ilinois, where I successfully developed the
+strategy SOP for a Serialization solution on ACG Package equipment utilizing SAP ATTP Serialization.
+March, 2011 to August 2013 Merck Sharp & Dohme Corp Whitehouse Station, NJ
+Solutions/Engagement Manager(Consultant)
+Active involvement was maintained in the migration of legacy source systems employed during the pre-
+clinical trial phase of operations. This endeavor posed specific challenges, with a primary focus on the
+necessity for stringent adherence to Merck's Software Development Life Cycle (SDLC) and Good Laboratory
+Practice (GLPx) Compliance policies. Risks associated with the project encompassed the need to ensure
+continued access to and support for the legacy source data formats, in addition to compliance requirements
+pertaining to these systems.
+To effectively address these challenges and mitigate associated risks, an agile project management
+methodology was introduced. This approach played a pivotal role in maintaining equilibrium among the
+critical triple constraints of Schedule, Cost, and Scope, ensuring that none of these essential factors were
+compromised throughout the migration process.
+January, 2003 to December, 2008 GlaxoSmithKline Pl Philadelphia, PA
+IT Infrastructure Manager/Project Manager
+During my tenure at GSK, I held various roles within the Corporate Function and Legal e-Discovery Teams,
+where I played a pivotal role in supporting and managing diverse initiatives. Here are some of the key
+responsibilities and achievements I undertook:
+Versatile Roles: I had the opportunity to take on multiple roles, including Business Analyst, Technical Analyst,
+IT Project Manager, and Data Warehouse Tech Lead, demonstrating adaptability and a wide range of skills.
+IT Solution Delivery: Managed the IT Solution Delivery process for my business customers, collaborating
+closely with offshore vendor teams to ensure the timely delivery of solutions. Led the Technical Team at Legal
+IT Discovery, successfully executing Compliance projects utilizing tools like Cognos and Informatica ETL,
+while also automating manual processes through ASP.net web interfaces.
+Stakeholder Engagement: Engaged in pre-negotiations with senior business stakeholders across various
+business entities, including Travel & Expenses, Promotion Management for Vendors/Employees, Grants
+Centrals (MEC), FEMA, Accounts Payables, and Professional Programs.
+Central IT Initiatives: Provided leadership, analytical insights, and technical expertise to support the strategy,
+services, and solutions for Central IT Initiatives, contributing to the organization's overall IT goals.
+Throughout my tenure at GSK, I consistently demonstrated my ability to adapt to various roles, effectively
+manage projects, and contribute to the improvement of IT processes and standards.
+PRIOR EXPERIENCE
+August, 2001 to January, 2003 IBM White Plains, NY
+July, 1997 to April, 2001 Ernst & Young LLP Secaucus, New Jersey
+December, 1996 to April, 1997 Indotronix International Corporation Poughkeepsie, NY
+October, 1995 to November, 1996 Housing & Development Board Bukit Merah, Singapore
+EDUCATION
+▪ Master of Science in Computer Applications, College of Engineering, Trivandrum.
+▪ Master of Technology in Software Systems; BITS Pilani
+CERTIFICATIONS
+▪ Six Sigma Greenbelt Certification Program, GlaxoSmithKline, USA
+▪ Advanced Project Management Program, PMI UK
+▪ Microsoft Certified Professional (on multiple domains).
+▪ ITIL V3 Certified
+▪ Lotus Notes Certified Professional.
+▪ Integrated Quality Management System

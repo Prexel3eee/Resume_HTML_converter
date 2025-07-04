@@ -1,0 +1,596 @@
+
+                      Alexander Alexandrov
+        Sr AWS Solution Architect/DevOps Engineer/DevOps Manager/Data
+                       Architect/Application Architect
+    E-mail: a8579998160@gmail.com Mob: +1 (857) 999 8160 Skype: bigpafik
+                      www.linkedin.com/in/alexander2000
+
+                              EXECUTIVE SUMMARY
+Versatile and highly competent IT consultant possessing more than  ten
+years  of  experience  in   developing   and   architecting   multiple
+application, systems, and solutions. Hands-on experience  in  creating
+private, public and hybrid clouds and virtualization of  the  existing
+infrastructure.  Demonstrated abilities in developing  strategies  for
+developing, retiring, migrating, troubleshooting, supporting different
+application,  databases,  ERP  and  SAP   architected   various   data
+intensive applications. Experienced in business requirement gathering,
+process flow, process modeling, software development, data mining, big
+data analysis, data  science,  artificial  intelligence,  contributing
+towards enhancing business achieving goals. Possess  solid  skills  in
+developing  secure,   fault-tolerant,   reliable,   scalable,   highly
+available and cost-effective architecture and application.
+                         EDUCATION & CERTIFICATIONS
+
+    • Bachelor of Engineering from Moscow State University(MSUCI),
+      Moscow, Russia – 2007
+    • Master of Engineering from Moscow State University(MSUCI),
+      Moscow, Russia – 2008
+    • MBA Hult Business School Boston, USA-2015
+    • Project Management Professional (PMP) – PMP® Certification #
+      PMP Number: 1939200
+    • Certified Scrum Master (CSM) – Certified Scrum Master #
+      35291791547089
+    • Agile Certified Practitioner - PMI - License # 2077823
+    • Certified six sigma master black belt CSSMBB # 52331934935878
+    • Cloudera Certified Administrator for Hadoop (CCAH) in progress
+    • AWS Certified Solutions Architect – Professional in progress
+    • Amazon Web Services Certificate Solution Architect
+      0HP1CR311NQQQP3G
+
+
+
+           CORE COMPETENCIES
+
+|AWS could services      |Data Science & Artificial     |DevOps (Docker,Jenkins,    |
+|                        |intelligence                  |Kubernet)                  |
+|Big data (Hadoop)       |Data Architecture and Data    |Delivery/Release Management|
+|                        |Management                    |                           |
+|Agile & Traditional     |Data pipeline & Micro-services|VMware                     |
+|(SAFe)                  |                              |                           |
+|Configuration Management|Software Development Life     |Real time applications     |
+|                        |Cycle (SDLC)                  |                           |
+
+                               KNOWLEDGE AREAS
+
+Project/Program Management:  PMBOK,  WATERFALL,  AGILE,  SCRUM,  SAFe,
+CMMI, ITIL, SIX SIGMA, RAD, RUP, TQM, XP, ITERATIVE, INCREMENTAL, FDD,
+TDD, DAD
+
+Application Support: ITIL  Incident  Management,  Release  Management,
+Change Management, Production Support practices
+
+           TECHNICAL SKILLS
+Management  Tools  &  Software  and  Environments:  MS  Office,  Adobe
+Acrobat, MS Project, Primavera, PowerPoint, SAP BO BI, MS Visio, JIRA,
+OpenText's Live Link Document Management System, API, Visio,  Sun  One
+Studio, WSAD, Eclipse, Toad,  Cloudera,  Confluence,  Team  Foundation
+Server (TFS), VSTS, GIT,  GitHub,   ServiceNow  SharePoint,  Livelink,
+ShareNow, ServiceNow
+Software & Languages:
+AWS(Amazon web services EC2, S3, ELB,  Autoscaling  Servers,  Glacier,
+Storage  Lifecycle  rules,  VPC,  Elastic  Beanstalk,   Cloud   Front,
+Import/Export,Route53, CloudWatch, Cloud trail,  OpsWorks,  IAM,  SNS,
+Elasticach Snowball) Limited exposer to Azure
+Docker, Jenkins, Kubernet, Chef, Puppet,  Cloud,  VMware,  Cloudamize,
+Podium, Talend,  Swarm,  Java,  R,  Python(Pandas  NumPy,  matplotlib,
+SciPy) , Informatica, Cognos, Jupiter
+Hadoop Ecosystem: Hive, Impala, Spark, Spark streaming, Flume,  Kafka,
+Yarn, Tez, Oozie, Sentry, Knox, Ranger,  Cloudera  Manager,  Zeppelin,
+Ambari, and Cloudera Navigator,Net, ASP.Net, VB.NET, HTML,  CSS,  XML,
+AJAX,,  Cucumber, Selenium, AutoCAD,JavaScript,  JSP,  VBScript,  SOAP
+UI/REST, Shell scripting, JavaScript, Apache, Tomcat, Visual Basic, VB
+Script, Oracle PL/SQL, Lotus Script, PowerBuilder, UML, IBM  WebSphere
+, Silverlight, Tableau
+Operating Systems: Windows NT/2000/XP/7, LINUX, UBUNTU
+Database: Microsoft SQL Server, Oracle, MS-Access, MongoDB
+Web Servers:  Apache HTTP, Tomcat
+
+
+EXPERIENCE SUMMARY
+
+Charter Communication/Spectrum, Charlotte, NC
+                                             Sep. 2018 - Current
+Sr. Architect
+
+Leading team effort for the development of the  enterprise  portal  UI
+application and billing automation following SOX compliance regulation
+
+    • Experienced in Cloud automation using AWS Cloud  Formation  templates.
+      Experience in Amazon Web Services EC2, ELB, S3, Route  53,  EBS,  VPC,
+      AMI, SNS, RDS, Auto Scaling, etc
+    • Assist in  designing,  automating,  implementing  and  sustainment  of
+      Amazon machine images (AMI) across the AWS Cloud environment
+    • Ability to identify and gather requirements to define a solution to be
+      built and operated on AWS.
+    • Created Cloud Formation templates and deployed AWS resources using it.
+    • Designed the network architecture for the POC.
+    • Created the VPC infrastructure.
+    • Created the ACLs, Subnets, Route  Tables,  Internet  Gateway  and  NAT
+      Gateway
+    • Monitoring the instances using the CloudWatch Alarms
+    • Expertise using the Lambda for the AWS services automation
+    • Extensively used YUM and RPM for installing packages.
+    • Work on DevOps/Agile  operations  and  tools  area  (Build  &  Release
+      Automation, Environment Service)
+    • Container management using Docker by writing Docker files and  set  up
+      the automated  build  on  Docker  HUB  and  installed  and  configured
+      Kubernetes.
+    • Dockerized applications by creating Docker images from Docker file
+    • Managed local deployments in Kubernetes, creating  local  cluster  and
+      deploying application containers.
+    • Converted and  automated  builds  using  scheduled  automated  nightly
+      builds using Jenkins.
+    • Experience with NoSQL data-stores like Cassandra, Mongo DB, Dynamo DB
+    • Architecture and designed inter-process  communications,  asynchronous
+      processing,  micro-services,  message  queuing,  interfaces,  and  API
+      development.
+    • Extensively worked on CI/CD pipeline for code deployment by engaging
+      different tools (Git, Jenkins)
+    • Set up continuous integration and formal builds using Jenkins with Git
+      repository.
+    • Experience in using Configuration  management  software's  like  Chef,
+      Puppet, and Ansible for Automation.
+    • Experience in Branching, Merging, Tagging and maintaining the  version
+      across the environments using SCM tools like GIT and Subversion (SVN)
+    • Participate in multiple projects varying from 5- 50 Million projects.
+    • Installed  and  configure  Jenkins  and  created  customized  jobs  to
+      commencement
+      builds for various  environments.  Integrated  Subversion  (SVN)  into
+      Jenkins to automate the code check-out process installing, configuring
+      and maintaining for continuous integration (CI) and  for  End  to  End
+      automation for all  build  and  deployments  and  managed  builds  for
+      multiple-concurrent and overlapping release
+    • In-depth understanding of the Hadoop ecosystem and strong conceptual
+      knowledge in Hadoop architecture components
+    • Working experience with tools like Hive, Spark, HBase, Sqoop, Impala,
+      Kafka, Flume, Oozie, MapReduce, etc.
+
+Macy’s, Mason/Cincinnati, OH
+                                                                 Feb.
+2018 – Sept.2018
+Senior Software Architect
+
+Demonstrate leadership in technology with  recommended  software  solutions.
+Provide mentoring to technical team members. 
+
+
+    • Influence the development and implementation of Information Technology
+      (I.T.) strategy, initiatives, and governing policies.
+    • Assemble detailed reviews of the enterprise and documents capabilities
+      and conceives approaches to aligning technical solutions with business
+      needs. I assist in defining the direction for  projects  and  solution
+      architecture. 
+    • Maintained AWS Cloud Infrastructure in Optimal Configuration from both
+      technical and budgetary perspectives
+    • Provided input and guidance to Personnel and JHC Cloud Architects/SMEs
+      to the overall AWS Architecture and Design tenets
+    • Composed and leveraged AWS CloudFormation Templates  for  utilization,
+      to ensure repeatably, sustainable AWS  infrastructure  is  effectively
+      managed
+    •  Deployed,  test  and  documented  development,  pre-production,   and
+      production environments
+    • Create Amazon Virtual Private Cloud (VPC) resources such  as  subnets,
+      network access control lists, and security groups
+    •  Backup  cloud  and  on-premise  resources,  including  in  a   hybrid
+      environment
+    • Leveraged resource tagging to allocate  costs  and  optimize  resource
+      planning
+    • Created gold images / AMIs and employ autoscaling
+    • Assisted in preparing cost analysis based on expected usage
+    • Configure multi-factor authentication on virtual and hardware devices
+    • Created IAM users and groups
+    • Consulted directly with application teams to help them achieve success
+      - specifically in areas of AWS and cloud deployments. This might  mean
+      providing troubleshooting experience across a full stack,  or  helping
+      architect a deployment solution for a microservice application.
+    • Maintain availability of production systems deployed  into  USPTO  AWS
+      managed area that are not  covered  in  Project-Related  Configuration
+      Support or Prototype Configuration Support.
+    • Managed local deployments in Kubernetes, creating  local  cluster  and
+      deploying application containers.
+    • Experience with NoSQL data-stores like Cassandra, Mongo DB, Dynamo DB
+    • Architecture and designed inter-process  communications,  asynchronous
+      processing,  micro-services,  message  queuing,  interfaces,  and  API
+      development.
+    • Extensively worked on CI/CD pipeline for code deployment by engaging
+      different tools (Git, Jenkins)
+    • Set up continuous integration and formal builds using Jenkins with Git
+      repository.
+    • Experience in using Configuration  management  software's  like  Chef,
+      Puppet, and Ansible for Automation.
+    • Application detailed design, Process  modeling  in  Blue  Works  Live,
+      responsible for Process to workflow modeling, data  models,  technical
+      requirements, Interface contract documents (ICD’s) and user  interface
+      design. Business data use identification with data flow and  transform
+      modeling. Rules identification and definition.
+    • Develop SOA integration and Business Workflow architecture to meet the
+      business needs of the company by working closely with key stakeholders
+      and partners.
+    • Lead the overall technical direction for large highly complex projects
+      including cross functional integration.
+    • Conduct architecture maturity assessments  regarding  SOA  governance,
+      methodology, and tooling/platforms.
+    • Facilitate requirement and design  activities  as  required  to  guide
+      scrum  team  through  implementation  through  scoping,  analysis  and
+      design.
+    • Provide expertise to clients and  technical  architects  to  move  the
+      project  from  a  solution  design  phase  through  to   architectural
+      definition and eventually to implementation of designed artifacts.
+    • Plan and manages the high-level architecture strategy and design  work
+      for complex initiatives.
+    • Act as subject matter expert in Integration, Business  Rules,  Catalog
+      Driven concepts and technologies.
+    • Experienced in Branching, Merging, Tagging and maintaining the version
+      across the environments using SCM tools like GIT and Subversion (SVN)
+    • Participated in multiple projects varying from 5 -25 Million projects.
+    • Managed development of the Python web call utilizing Plumer and Docker
+
+
+
+
+
+
+
+American Electric Power, Columbus, OH
+                                                    Feb. 2017 – Feb.
+2018
+Application Architect
+
+Leading team effort for the development of the smart grid  (electrical
+grid optimization) and analytic billing automation
+
+    • Experienced in working  on  DevOps/Agile  operations  and  tools  area
+      (Build & Release Automation, Environment Service)
+    • Container management using Docker by writing Docker files and  set  up
+      the automated  build  on  Docker  HUB  and  installed  and  configured
+      Kubernetes.
+    • Dockerized applications by creating Docker images from Docker file
+    • Responsible for creating eGateway platform to  virtulize  call  center
+      (big data migration) of  three  big  mergers  (Charter  communication,
+      Bright House system and Time Warner Cable).
+    • Migrated data from ERP to the data lake
+    • Responsible to create a new data module "ACT  –  Automated  Conversion
+      Tool" that  aims  at  total  automation  to  monitoring  and  securing
+      financial systems under SOX requirements including ERP,  CRM  and  SCM
+      section 302, 404 and 404 for the revenue database of customer service.
+    •  Planning  of  the  implementation  of  projects,   guaranteeing   the
+      feasibility of delivery in compliance with the deadline and  with  the
+      stipulated cost;
+    • Quality assurance in deliveries, interacting with  the  management  of
+      project and quality team, and seeking mechanisms  and  software  which
+      contribute to the reduction of rework  and  the  delivery  within  the
+      deadline stipulated;
+    • Defined Business rules and infrastructure  &  Security  standards  for
+      various components and communicate these while working  in  Scrum  and
+      DevOps based development environment.
+    • Constant evaluation of the internal processes of the company in search
+      of improvement and optimization of the same.
+    • Drive eGateway execution to  meet  IT  portfolio  schedule,  cost  and
+      quality requirements of  Commercial  Services.  Taking  ownership  for
+      eGateway program to provide end to end solution.
+    • Implementing company and industry best  practice  project  methodology
+      for IT delivery of eGateway User interface.
+    • Derive Scrum of scrums (SAFe 4.0) for  production  support  (Operation
+      enablement) at the portfolio level and managing directly 5-6 different
+      product lines.
+    • Define the eGateway strategic roadmap for “Cap & Grow”  strategy  with
+      finance business team and garnering  Spectrum  Enterprise  buy-in  and
+      support from  them.  Facilitate  onsite  and  offshore  teams  (India,
+      Brazil, and Mexico) using agile methodology.
+    • Experienced in Branching, Merging, Tagging and maintaining the version
+      across the environments using SCM tools like GIT and Subversion (SVN)
+    • Participated in multiple projects varying from1-15Million projects.
+    • Involved in data collection,  data  engineering,  data  cleansing  and
+      solution design stages of multiple projects.
+    • Managed development of the Python web call utilizing Plumer and Docker
+
+
+    • Participated in the productionizing  and  creating  analytical    data
+      models in R
+    • Helped to gain approval of reporting  requirements  and  assisted  IBM
+      Cognos development effort
+    • Led sessions to aid  co-creation  of  the  definition  of  ready,  the
+      definition of done, and team values & working agreements.
+    • Have  practical experience  and conceptual understanding  in  advanced
+      regression  modeling,  time  series  analysis,  statistical   testing,
+      correlation,  multivariate  analysis,  forecasting,  model   building,
+      business intelligence tools and application  of  statistical  concepts
+      data acquisition, storage, analysis, integration, predictive modeling,
+      logistic regression, decision trees, data mining methods, forecasting,
+      factor analysis, cluster analysis, neural networks and other  advanced
+      statistical and econometric techniques.
+    • In-depth understanding of the Hadoop ecosystem and strong conceptual
+      knowledge in Hadoop architecture components
+    • Working experience with tools like Hive, Spark, HBase, Sqoop, Impala,
+      Kafka, Flume, Oozie, MapReduce, etc.
+    • Installed  and  configure  Jenkins  and  created  customized  jobs  to
+      commencement
+      builds for various  environments.  Integrated  Subversion  (SVN)  into
+      Jenkins to automate the code check-out process installing, configuring
+      and maintaining for continuous integration (CI) and  for  End  to  End
+      automation for all  build  and  deployments  and  managed  builds  for
+      multiple-concurrent and overlapping release
+
+
+
+
+
+
+
+
+
+LexisNexis, Dayton, OH
+
+  Sept. 2014 –Dec. 2016
+
+Sr. Solution  Architect /Computer System Analyst
+
+Managed the migration from TIBCO to SOA Oracle of 10  API  application
+that impacted 2000  people  and  eight  business  units  in  different
+counties all over the world.
+
+    • Involved in data collection,  data  engineering,  data  cleansing  and
+      solution design stages of multiple projects.
+    • Managed development of the Python web call utilizing Plumer and Docker
+
+
+    • Participated in the productionizing  and  creating  analytical    data
+      models in R
+    • Have  practical experience  and conceptual understanding  in  advanced
+      regression  modeling,  time  series  analysis,  statistical   testing,
+      correlation,  multivariate  analysis,  forecasting,  model   building,
+      business intelligence tools and application  of  statistical  concepts
+      data acquisition, storage, analysis, integration, predictive modeling,
+      logistic regression, decision trees, data mining methods, forecasting,
+      factor analysis, cluster analysis, neural networks and other  advanced
+      statistical and econometric techniques.
+    • Plan and design the work required  from  the  IT  (SOA  Oracle  Fusion
+      cloud) development teams, for production release. Provide support  and
+      give  effective  &  efficient  resolutions  for  the   technical   and
+      functional troubleshooting
+    • Advise business stakeholders about Oracle EPR  cloud12.2.7  technology
+      trends, usage trends, competitive buying behaviors in industry
+    • Support Oracle Fusion Cloud implementation including financial modules
+      that includes Payables,  Billing,  AR,  budget  and  Cash  Management,
+      General Ledger, Expense Management, Revenue Management, Fixed Assets.
+    • Led sessions to aid  co-creation  of  the  definition  of  ready,  the
+      definition of done, and team values & working agreements.
+    • Designed  and  implemented  basic  SQL  queries  for  QA  testing  and
+      report/data validation.
+    • Interacted with developers to identify and  resolve  technical  issues
+      and bugs in the software to validate end-user requirements. Helped  in
+      creating of data-mapping  best  practices  document  including  visual
+      processes and trained team members in data mapping process and tools.
+    • Performed data analysis and data manipulation of source data from  SQL
+      Server and other data structures to support the business organization.
+    •  Managed  development  Rest  API  using   Restlet   and   RAML   using
+      Python(request, httplib, urlibe, ramlesh)
+    •  Evaluated  emerging  technologies  and  the  evolution   of   current
+      technologies to define a future vision roadmap for optimal application
+      of technology to meet business needs. Conducts Proof  of  Concept  for
+      feasibility studies where required
+    • Investigating reported and suspected outage issues, documenting issue,
+      resolution, maintaining the knowledge base of known problems.
+    • Handled various cross-cultural teams for continuous delivery  pipeline
+      Dev>Built>QA>SIT>UAT>PROD version control for continuous delivery  and
+      deployment request from Business users, rollback out and  worked  with
+      different tools  GitHub,  Jenkins  and  Chef  to  manage  mobile  apps
+      delivery cycle in DevOps environment.
+    • Designed solutions that  involve  complex,  multi-system  integration,
+      possibly across business units, or general domains
+    •  Driven  alignment  between  Security  teams,  Infrastructure   Teams,
+      Enterprise Applications / Operations, Support, and  business  needs  -
+      acts as a pivotal point between all groups as a part of a  "Center  of
+      Excellence."
+    • Participated in application rationalization  and  the  development  of
+      application architecture roadmaps
+    • Identified applications and platforms impacted by  the  solution,  the
+      need for new platforms, and drives platform selection where required
+Citigroup,               Jersey                City,                NJ
+
+    Oct. 2012 – Sep. 2014
+
+Sr. AWS  Architect
+
+Facilitated development of various projects such  as  real-time  fraud
+prevention algorithm and provide consultancy on cloud  infrastructure.
+
+    • Facilitated large groups of diverse stakeholders to  obtain  consensus
+      on target solution, articulating value-add and reference  architecture
+      to potentially non-technical stakeholders
+    •  Sets  Cloud  infrastructure  vision  and  direction  and  drives  the
+      development of  infrastructure  architecture  strategy  and  long-term
+      planning (e.g., infrastructure architecture blueprint and roadmap)
+    • Proactively meet standards for information security and compliance
+    • Setup HCP and initial SAP Analytics Cloud and connections to BW and
+      BPC for several clients
+    • Designed and built flows from SAP ECC to SAP HANA using Data Services
+    • Leaded performance query analysis, sizing, HA/DR and storage/disk
+      design of ERP SAP HANA and SQL Server, Oracle
+    • Supports I.S. leadership by planning and championing the execution  of
+      broad initiatives aimed at delivering value to internal  and  external
+      stakeholders.
+    • Leverages  data,  technical,  and  business  knowledge  to  drive  the
+      development of  capability  frameworks  at  portfolio  and  enterprise
+      levels. Involved throughout the project life cycle  with  emphasis  on
+      the initiation, feasibility, and analysis phases. 
+    • Provide solution architecture for all the new roadmap  initiatives  by
+      senior executive through excellent knowledge  of  Cloud  technologies,
+      Windows, Linux, Mainframe and CA Gen.
+    • Provided Functional Escalation Support and Expertise to  the  Incident
+      Management Processes involving AWS Infrastructure or related issues
+    • Excellent communication skills (verbal and written).
+    • Experienced in working  on  DevOps/Agile  operations  and  tools  area
+      (Build & Release Automation, Environment Service)
+    • Container management using Docker by writing Docker files and  set  up
+      the automated  build  on  Docker  HUB  and  installed  and  configured
+      Kubernetes.
+    • Installed  and  configure  Jenkins  and  created  customized  jobs  to
+      commencement
+      builds for various  environments.  Integrated  Subversion  (SVN)  into
+      Jenkins to automate the code check-out process installing, configuring
+      and maintaining for continuous integration (CI) and  for  End  to  End
+      automation for all  build  and  deployments  and  managed  builds  for
+      multiple-concurrent and overlapping release
+    • In-depth understanding of the Hadoop ecosystem and strong conceptual
+      knowledge in Hadoop architecture components
+    • Working experience with tools like Hive, Spark, HBase, Sqoop, Impala,
+      Kafka, Flume, Oozie, MapReduce, etc.
+    • Dockerized applications by creating Docker images from Docker file
+    • Application architectures such as microservices, Web Services and REST
+      Architecture,  business   support   solutions,   operational   support
+      solutions and full stack development.
+    • Integrating and building end  to  end  quality  application  products,
+      enabling  business  capability   and   business   objectives   through
+      technology.
+    • Review and enhance Operational Service Plans (OSPs), Run books,  known
+      issues knowledge bases, log defects.
+    • Developed and improve the  tools  and  technologies  that  make  up  a
+      continuous delivery software development pipeline.
+    • Supported key pieces of DevOps  infrastructure  and  maintain  a  high
+      level of availability.
+    • Scale  systems  in  a  sustainable  fashion  through  mechanisms  like
+      automation, and evolve systems by pushing  for  changes  that  improve
+      reliability and velocity.
+    • Assisted troubleshooting skills across network, application,  caching,
+      queuing, load-balancing, storage, and distributed services layers.
+    • Experienced in designing Continuous Integration / Delivery systems  of
+      large-scale multi-language software development.
+    • Automated delivery of both cloud-native and hybrid services offered to
+      our lines of businesses.
+    • Create Infrastructure  as  Code  solutions  utilizing  tools  such  as
+      CloudFormation
+    • Leveraged configuration  management/image  management  tools  such  as
+      Chef,  Puppet,  Ansible,  Packer,  etc.  to  administer  an  AWS   AMI
+      lifecycle.
+    • Lead development of the solutions for real-world, large-scale problems
+      using Machine Learning; improve deep  learning  engine  that  services
+      brokerage clients.
+    • Worked extensively with the QA team for designing the  test  plan  and
+      test cases for the user acceptance testing (UAT).
+    • Preformed integrated data analysis from hybrid of  Hadoop  distributed
+      file system  (HDFS),  non-relational  (MongoDB)  and  relational  data
+      warehouses.
+    • Helped in creating of data-mapping best practices  document  including
+      visual processes and trained team members in data mapping process  and
+      tools.
+    • Lead the development real-time data ingestion into Hadoop using SQOOP,
+      HIVE, PIG, OOZIE and AP REDUCE JOB  from  the  internal  and  external
+      clients from different Database Sources(Teradata, SAP  Hana,  DB2  and
+      Oracle). Filter data in real-time during collection; using map  reduce
+      job high-level data for real-time analysis, participated in developing
+      data governance and architecture  to  standardize  the  data  storages
+      layer and techniques.
+    • Improved in development of the  fraud prevention algorithms
+    • Analyzed source systems and mapping data to Enterprise Data  Warehouse
+      (EDW)
+
+Ruscompund,            Moscow,            Russia            Federation
+                                                  Jan.  2007  –  Sept.
+2012
+
+DevOps Project Manager/Senior Engineer/Data Scientist
+
+Managed and architectured various IT projects for manufacturing,
+pharmaceutical, telecommunication,  E-commerce industries, lead cross-
+functional teams up to 150 engineers including subcontractors.
+
+    •  Consulted  on  the  possibility   virtualization  of   the   existing
+      infrastructure  and creating the private cloud solution
+    • Implemented and managed HA and DRS clusters, Worked on VMware  FT  for
+      critical VM's.
+    • Hands on experience on P2P, P2V, V2V Migration of  Machines  from  one
+      data center to another data center using migration  tools  like  Plate
+      spin, Doubletake, and Vmware Converter.
+    • Standardized system profiles across two separate ERP landscapes to
+      better identify performance issues and established procedures for
+      monitoring systems and managing system copies/migrations.
+    • Provide ERP expertise, project management, data and systems
+      integration support
+    • Implementation of SAP ERP, PI, BI, Portals and MDM, supported by
+      Solution Manager
+    • OS/DB Migration, SAP Sizing, SAP HA/DR Design, SAP Operational Best
+      Practices, SAP version upgrades
+    • Order-To-Cash, Procure-To-Pay and Record-To-Report SAP (FI, CO, SD,
+      MM, IS-U/CCS and HRMS),SAP BASIS, Oracle DB
+    • Completed Vmware host installation, storage connectivity and  addition
+      to VSphere cluster seamlessly
+    • Configure  VMware HA, VMware DRS in acquiring  higher  efficiency  for
+      VMware Infrastructure.
+    • 300+ P2V, P2P, V2V migration of windows and Linux servers and  created
+      SQL clusters on Windows  2012 administration.
+    •  Supervised   the   implementation   and   management   of   different
+      infrastructure build involving Linux and  Windows  Servers  on  VMware
+      vSphere.
+    • Managed various infrastructure effort  such as setting up Oracle  data
+      warehouses,  Linux  and  Windows  server   installing  SAP   and   ERP
+      solutions
+    • Created process collecting data  form  programmable   controllers   to
+      database
+    • Install and configure Virtual  Servers,  Hypervisors,  VMware,  Nagios
+      Monitoring systems, 
+      Microsoft Windows Servers, MS SQL servers
+    • Manage  and  maintain  the  physical,  virtual  and  wireless  network
+      infrastructure
+      Installation and termination of various cabling technologies.
+    • Developed and maintained  Continuous  Improvement  programs  including
+      Total Preventive Maintenance (TPM), DMAIC problem-solving methodology,
+      5S, Value Stream
+    • Managed planning and the implementation of lean manufacturing methods.
+    • Accomplished delivery of large-scale SAP/ERP development  projects  on
+      time  and  the  budget  by  efficiently  collaborating,  facilitating,
+      establishing and leading development processes.  Successfully  adopted
+      agile  (iterative/SCRUM)  on  all   projects   locally   and   between
+      geographically disparate locations.
+    •  Coordinated  and  facilitate  Kaizen  events   for   the   continuous
+      improvement of manufacturing and  informational systems processes.
+    • Maintained cost reduction documentation  and  provide  recommendations
+      for further cost-saving initiatives.
+    • Developed metrics and reporting team status to various stakeholders.
+    • Coordinated software deployments and ensuring compliance  with  change
+      control procedures.
+    • Development and maintenance of standardized metrics and  KPI's  across
+      clients
+    • Created critical path diagrams using PERT to manage the resources  and
+      critical activities.
+    • Developed and maintained a thorough knowledge  of  business  processes
+      supported by software systems.
+    • Documented business  requirements  when  necessary,  as  well  as  the
+      participation in requirements  reviews,  design  reviews,  and  change
+      control activities.
+    • Conducted weekly projects meeting to assess risks, quality, and timing
+      concerns and prepared the reports.
+    • Established work priorities & procedures to ensure that daily workflow
+      requirements and project deadlines are met.
+    • Configured Windows NT server designed Active  Directory  &  Messaging,
+      Configuring, Monitoring.
+    • Excel at reading and reviewing mechanical and construction drawings.
+    • Led design of automatics for the various industrial systems  including
+      HVAC.
+    • Assisted business partners with analysis of Business trend to maximize
+      ROI.
+    •  Resolved  numerous  project  issues  including  staffing   shortages,
+      tactical matters, scope creep and divergent business and user needs.
+    • Responsible for delivery  management  from  consolidated  delivery  to
+      release management
+    • Performed technical research and provide  solutions  to  the  business
+      problems.
+    • Reduced maintained the cost of the equipment by 50% by implementing an
+      innovative approach
+    • Proposed standard and  established  data  governance  to  ensure  that
+      analytic are embraced across the organization.
+    • Wrote complex SQL queries that were needed to investigate data issues,
+      repair damaged data, and migrated data to new structures.
+    • Visualized and reported data  findings  creatively  in  a  variety  of
+      visual  formats  that   appropriately   provides   insights   to   the
+      organization.
+    • Managed teams responsible for identification of business requirements,
+      functional design, process design  (including  scenario  design,  flow
+      mapping), prototyping, testing, training, defining support procedures.
+    •  Designed  and  implemented  the  reporting   and   visualization   of
+      unstructured and structured data sets.
+    • Created relational data models  that  optimally  served  the  business
+      need.
+    • Designed and developed data cleansing routines utilizing typical  data
+      quality   functions   involving    standardization,    transformation,
+      rationalization, linking and matching

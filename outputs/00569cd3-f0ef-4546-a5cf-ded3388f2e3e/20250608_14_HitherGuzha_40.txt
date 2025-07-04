@@ -1,0 +1,21 @@
+26/06/2025, 12:46 VectorVMS
+Period (Begin - End): Sunday, June 8, 2025 - Saturday, June 14, 2025
+Timesheet Information
+Timesheet for: Hither Guzha Client: District of Columbia
+Candidate ID: 4580443 Reports To: Shop Brent
+Requisition ID: 741479 Requisition Title: DHS DCAS Technical Writer Master
+PO:
+Timesheet
+Timesheet ID: 18101123 Submitted by: VMS System Status: Approved 06/26/2025 08:40 AM
+8 9 10 11 12 13 14 Total
+Sun Mon Tue Wed Thu Fri Sat
+Project DHS/DHCF - 01/01/25 - GuzhaP-138982 / 721759 / PROG~L00001
+Cost Center DHS - Office of Information Systems
+Straight Time - STaR2 08:00 08:00 08:00 08:00 08:00
+40:00
+Straight Time - STaR2 40:00
+Total Billable Hours (Day) 08:00 08:00 08:00 08:00 08:00 40:00
+Written Signature if Applicable Date
+Submitted by: VMS System ____________________________________ 06/25/2025 05:23 PM
+Approved By: Heather Swartz ____________________________________ 06/26/2025 08:40 AM
+https://vms.vectorvms.com/time/timesheetprint.aspx?TmShtID=18101123 1/1
